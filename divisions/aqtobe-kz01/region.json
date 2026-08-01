@@ -1,0 +1,33 @@
+{
+  "id": "KZ01",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ақтөбе",
+    "en": "Aqtöbe",
+    "slug": "aqtobe-kz01"
+  },
+  "code": {
+    "id": "KZ01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.299",
+    "lon": "58.073"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/aqtobe-kz01/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

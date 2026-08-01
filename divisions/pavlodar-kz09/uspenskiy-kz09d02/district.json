@@ -1,0 +1,45 @@
+{
+  "id": "KZ09D02",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Uspenskiy",
+    "en": "Uspenskiy",
+    "slug": "uspenskiy-kz09d02"
+  },
+  "code": {
+    "id": "KZ09D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ09",
+    "level": 1,
+    "name": {
+      "local": "Павлодар",
+      "en": "Pavlodar",
+      "slug": "pavlodar-kz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.056",
+    "lon": "77.572"
+  },
+  "metadata": {},
+  "source": {}
+}

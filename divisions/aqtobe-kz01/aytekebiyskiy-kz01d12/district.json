@@ -1,0 +1,45 @@
+{
+  "id": "KZ01D12",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aytekebiyskiy",
+    "en": "Aytekebiyskiy",
+    "slug": "aytekebiyskiy-kz01d12"
+  },
+  "code": {
+    "id": "KZ01D12",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ01",
+    "level": 1,
+    "name": {
+      "local": "Ақтөбе",
+      "en": "Aqtöbe",
+      "slug": "aqtobe-kz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.207",
+    "lon": "61.182"
+  },
+  "metadata": {},
+  "source": {}
+}

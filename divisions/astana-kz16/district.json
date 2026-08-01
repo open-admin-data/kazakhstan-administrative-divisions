@@ -1,0 +1,47 @@
+[
+  {
+    "id": "KZ16D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tselinogradskiy",
+      "en": "Tselinogradskiy",
+      "slug": "tselinogradskiy-kz16d01"
+    },
+    "code": {
+      "id": "KZ16D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ16",
+      "level": 1,
+      "name": {
+        "local": "Астана",
+        "en": "Astana",
+        "slug": "astana-kz16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ16",
+        "level": 1,
+        "name": {
+          "local": "Астана",
+          "en": "Astana",
+          "slug": "astana-kz16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.139",
+      "lon": "71.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

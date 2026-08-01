@@ -1,0 +1,82 @@
+# Kazakhstan Administrative Divisions
+
+> Open dataset of Kazakhstan's administrative hierarchy:
+> 16 regions, 168 districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 16
+- Total districts: 168
+- Coordinates: included (all levels)
+- Last updated: 2026-08-01
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/data/all-region.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/data/all-district.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Aqtöbe](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/aqtobe-kz01/) — 13 districts
+- [Qostanay](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/qostanay-kz02/) — 17 districts
+- [Qyzylorda](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/qyzylorda-kz03/) — 8 districts
+- [Atyrau](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/atyrau-kz04/) — 8 districts
+- [West Kazakhstan](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/west-kazakhstan-kz05/) — 12 districts
+- [Aqmola](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/aqmola-kz06/) — 15 districts
+- [Qaraghandy](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/qaraghandy-kz07/) — 9 districts
+- [North Kazakhstan](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/north-kazakhstan-kz08/) — 12 districts
+- [Pavlodar](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/pavlodar-kz09/) — 10 districts
+- [East Kazakhstan](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/east-kazakhstan-kz10/) — 16 districts
+- [Almaty](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/almaty-kz11/) — 16 districts
+- [Mangghystau](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/mangghystau-kz12/) — 5 districts
+- [South Kazakhstan](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/south-kazakhstan-kz13/) — 14 districts
+- [Zhambyl](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/zhambyl-kz14/) — 11 districts
+- [Almaty City](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/almaty-city-kz15/) — 1 districts
+- [Astana](https://github.com/open-admin-data/kazakhstan-administrative-divisions/tree/main/divisions/astana-kz16/) — 1 districts
+
+## Per-Region Full Data
+
+- [Aqtöbe](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/aqtobe-kz01.txt)
+- [Qostanay](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/qostanay-kz02.txt)
+- [Qyzylorda](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/qyzylorda-kz03.txt)
+- [Atyrau](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/atyrau-kz04.txt)
+- [West Kazakhstan](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/west-kazakhstan-kz05.txt)
+- [Aqmola](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/aqmola-kz06.txt)
+- [Qaraghandy](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/qaraghandy-kz07.txt)
+- [North Kazakhstan](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/north-kazakhstan-kz08.txt)
+- [Pavlodar](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/pavlodar-kz09.txt)
+- [East Kazakhstan](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/east-kazakhstan-kz10.txt)
+- [Almaty](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/almaty-kz11.txt)
+- [Mangghystau](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/mangghystau-kz12.txt)
+- [South Kazakhstan](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/south-kazakhstan-kz13.txt)
+- [Zhambyl](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/zhambyl-kz14.txt)
+- [Almaty City](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/almaty-city-kz15.txt)
+- [Astana](https://raw.githubusercontent.com/open-admin-data/kazakhstan-administrative-divisions/main/docs/llms-full/astana-kz16.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Kazakhstan Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/kazakhstan-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

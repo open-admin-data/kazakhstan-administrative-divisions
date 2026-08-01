@@ -1,0 +1,45 @@
+{
+  "id": "KZ10D15",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Leninogorsk",
+    "en": "Leninogorsk",
+    "slug": "leninogorsk-kz10d15"
+  },
+  "code": {
+    "id": "KZ10D15",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ10",
+    "level": 1,
+    "name": {
+      "local": "Шығыс Қазақстан",
+      "en": "East Kazakhstan",
+      "slug": "east-kazakhstan-kz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.391",
+    "lon": "83.742"
+  },
+  "metadata": {},
+  "source": {}
+}

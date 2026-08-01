@@ -1,0 +1,45 @@
+{
+  "id": "KZ10D08",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zharminskiy",
+    "en": "Zharminskiy",
+    "slug": "zharminskiy-kz10d08"
+  },
+  "code": {
+    "id": "KZ10D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ10",
+    "level": 1,
+    "name": {
+      "local": "Шығыс Қазақстан",
+      "en": "East Kazakhstan",
+      "slug": "east-kazakhstan-kz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.187",
+    "lon": "81.138"
+  },
+  "metadata": {},
+  "source": {}
+}

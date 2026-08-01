@@ -1,0 +1,45 @@
+{
+  "id": "KZ04D03",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Isatayskiy",
+    "en": "Isatayskiy",
+    "slug": "isatayskiy-kz04d03"
+  },
+  "code": {
+    "id": "KZ04D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ04",
+    "level": 1,
+    "name": {
+      "local": "Атырау",
+      "en": "Atyrau",
+      "slug": "atyrau-kz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.412",
+    "lon": "50.372"
+  },
+  "metadata": {},
+  "source": {}
+}

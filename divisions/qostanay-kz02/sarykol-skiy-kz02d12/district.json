@@ -1,0 +1,45 @@
+{
+  "id": "KZ02D12",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sarykol`skiy",
+    "en": "Sarykol`skiy",
+    "slug": "sarykol-skiy-kz02d12"
+  },
+  "code": {
+    "id": "KZ02D12",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ02",
+    "level": 1,
+    "name": {
+      "local": "Қостанай",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.461",
+    "lon": "65.736"
+  },
+  "metadata": {},
+  "source": {}
+}

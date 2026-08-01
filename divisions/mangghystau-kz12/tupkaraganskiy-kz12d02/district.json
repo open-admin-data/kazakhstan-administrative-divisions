@@ -1,0 +1,45 @@
+{
+  "id": "KZ12D02",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tupkaraganskiy",
+    "en": "Tupkaraganskiy",
+    "slug": "tupkaraganskiy-kz12d02"
+  },
+  "code": {
+    "id": "KZ12D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ12",
+    "level": 1,
+    "name": {
+      "local": "Маңғыстау",
+      "en": "Mangghystau",
+      "slug": "mangghystau-kz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "44.424",
+    "lon": "50.802"
+  },
+  "metadata": {},
+  "source": {}
+}

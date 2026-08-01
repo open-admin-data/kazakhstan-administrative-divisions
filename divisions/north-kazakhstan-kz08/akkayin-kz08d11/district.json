@@ -1,0 +1,45 @@
+{
+  "id": "KZ08D11",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Akkayin",
+    "en": "Akkayin",
+    "slug": "akkayin-kz08d11"
+  },
+  "code": {
+    "id": "KZ08D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ08",
+    "level": 1,
+    "name": {
+      "local": "Солтүстік Қазақстан",
+      "en": "North Kazakhstan",
+      "slug": "north-kazakhstan-kz08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.4",
+    "lon": "69.68"
+  },
+  "metadata": {},
+  "source": {}
+}

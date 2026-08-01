@@ -1,0 +1,33 @@
+{
+  "id": "KZ12",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Маңғыстау",
+    "en": "Mangghystau",
+    "slug": "mangghystau-kz12"
+  },
+  "code": {
+    "id": "KZ12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "44.161",
+    "lon": "54.174"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/mangghystau-kz12/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

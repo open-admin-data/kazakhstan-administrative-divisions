@@ -1,0 +1,45 @@
+{
+  "id": "KZ07D02",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aktogayskiy",
+    "en": "Aktogayskiy",
+    "slug": "aktogayskiy-kz07d02"
+  },
+  "code": {
+    "id": "KZ07D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ07",
+    "level": 1,
+    "name": {
+      "local": "Қарағанды",
+      "en": "Qaraghandy",
+      "slug": "qaraghandy-kz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.753",
+    "lon": "75.598"
+  },
+  "metadata": {},
+  "source": {}
+}

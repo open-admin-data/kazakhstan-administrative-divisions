@@ -1,0 +1,33 @@
+{
+  "id": "KZ15",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Алматы",
+    "en": "Almaty City",
+    "slug": "almaty-city-kz15"
+  },
+  "code": {
+    "id": "KZ15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.236",
+    "lon": "76.91"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/almaty-city-kz15/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

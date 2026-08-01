@@ -1,0 +1,33 @@
+{
+  "id": "KZ06",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ақмола",
+    "en": "Aqmola",
+    "slug": "aqmola-kz06"
+  },
+  "code": {
+    "id": "KZ06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.861",
+    "lon": "69.909"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/aqmola-kz06/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

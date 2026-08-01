@@ -1,0 +1,722 @@
+[
+  {
+    "id": "KZ11D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aksuskiy",
+      "en": "Aksuskiy",
+      "slug": "aksuskiy-kz11d05"
+    },
+    "code": {
+      "id": "KZ11D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.447",
+      "lon": "79.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Alakolskiy",
+      "en": "Alakolskiy",
+      "slug": "alakolskiy-kz11d07"
+    },
+    "code": {
+      "id": "KZ11D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.005",
+      "lon": "80.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balkhashskiy",
+      "en": "Balkhashskiy",
+      "slug": "balkhashskiy-kz11d03"
+    },
+    "code": {
+      "id": "KZ11D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.742",
+      "lon": "75.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Enbekshikazakhskiy",
+      "en": "Enbekshikazakhskiy",
+      "slug": "enbekshikazakhskiy-kz11d13"
+    },
+    "code": {
+      "id": "KZ11D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.498",
+      "lon": "78.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Iliyskiy",
+      "en": "Iliyskiy",
+      "slug": "iliyskiy-kz11d14"
+    },
+    "code": {
+      "id": "KZ11D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.059",
+      "lon": "76.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karasayskiy",
+      "en": "Karasayskiy",
+      "slug": "karasayskiy-kz11d10"
+    },
+    "code": {
+      "id": "KZ11D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.147",
+      "lon": "76.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karatal`skiy",
+      "en": "Karatal`skiy",
+      "slug": "karatal-skiy-kz11d08"
+    },
+    "code": {
+      "id": "KZ11D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.811",
+      "lon": "77.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kerbulakskiy",
+      "en": "Kerbulakskiy",
+      "slug": "kerbulakskiy-kz11d11"
+    },
+    "code": {
+      "id": "KZ11D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.214",
+      "lon": "78.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Koksuskiy",
+      "en": "Koksuskiy",
+      "slug": "koksuskiy-kz11d04"
+    },
+    "code": {
+      "id": "KZ11D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.766",
+      "lon": "77.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panfilovskiy",
+      "en": "Panfilovskiy",
+      "slug": "panfilovskiy-kz11d06"
+    },
+    "code": {
+      "id": "KZ11D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.308",
+      "lon": "79.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Raiymbekskiy",
+      "en": "Raiymbekskiy",
+      "slug": "raiymbekskiy-kz11d01"
+    },
+    "code": {
+      "id": "KZ11D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.828",
+      "lon": "79.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarkandskiy",
+      "en": "Sarkandskiy",
+      "slug": "sarkandskiy-kz11d09"
+    },
+    "code": {
+      "id": "KZ11D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.472",
+      "lon": "79.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D16",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taldyqorghan",
+      "en": "Taldyqorghan",
+      "slug": "taldyqorghan-kz11d16"
+    },
+    "code": {
+      "id": "KZ11D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.958",
+      "lon": "78.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talgarskiy",
+      "en": "Talgarskiy",
+      "slug": "talgarskiy-kz11d02"
+    },
+    "code": {
+      "id": "KZ11D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.349",
+      "lon": "77.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uygurskiy",
+      "en": "Uygurskiy",
+      "slug": "uygurskiy-kz11d12"
+    },
+    "code": {
+      "id": "KZ11D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.577",
+      "lon": "79.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D15",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhambylskiy",
+      "en": "Zhambylskiy",
+      "slug": "zhambylskiy-kz11d15"
+    },
+    "code": {
+      "id": "KZ11D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.85",
+      "lon": "75.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

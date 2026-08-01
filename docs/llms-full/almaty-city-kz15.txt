@@ -1,0 +1,14 @@
+# Almaty City — Kazakhstan Administrative Divisions
+
+> 1 districts
+> Code: KZ15
+> Coordinates: 43.236, 76.91
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Almaty
+
+Code: KZ15D01, Coordinates: 43.236, 76.91
+
+

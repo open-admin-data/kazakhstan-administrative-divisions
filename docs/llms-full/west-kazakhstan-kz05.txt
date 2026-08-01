@@ -1,0 +1,69 @@
+# West Kazakhstan — Kazakhstan Administrative Divisions
+
+> 12 districts
+> Code: KZ05
+> Coordinates: 49.799, 50.276
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Akzhaikskiy
+
+Code: KZ05D10, Coordinates: 49.415, 51.833
+
+
+### Burlinskiy
+
+Code: KZ05D01, Coordinates: 51.119, 53.048
+
+
+### Chingirlauskiy
+
+Code: KZ05D11, Coordinates: 50.616, 54.025
+
+
+### Dzhangalinskiy
+
+Code: KZ05D07, Coordinates: 48.902, 50.314
+
+
+### Dzhanybekskiy
+
+Code: KZ05D02, Coordinates: 49.566, 47.38
+
+
+### Karatobinskiy
+
+Code: KZ05D05, Coordinates: 49.497, 53.247
+
+
+### Kaztalovskiy
+
+Code: KZ05D09, Coordinates: 49.756, 49.313
+
+
+### Syrymskiy
+
+Code: KZ05D06, Coordinates: 50.226, 52.697
+
+
+### Taskalinskiy
+
+Code: KZ05D03, Coordinates: 50.831, 49.993
+
+
+### Terektinskiy
+
+Code: KZ05D12, Coordinates: 50.716, 51.538
+
+
+### Urdinskiy
+
+Code: KZ05D08, Coordinates: 48.641, 47.98
+
+
+### Zelenovskiy
+
+Code: KZ05D04, Coordinates: 51.308, 51.038
+
+

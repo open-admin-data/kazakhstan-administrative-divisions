@@ -1,0 +1,45 @@
+{
+  "id": "KZ02D03",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Taranovskiy",
+    "en": "Taranovskiy",
+    "slug": "taranovskiy-kz02d03"
+  },
+  "code": {
+    "id": "KZ02D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ02",
+    "level": 1,
+    "name": {
+      "local": "Қостанай",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.961",
+    "lon": "63.093"
+  },
+  "metadata": {},
+  "source": {}
+}

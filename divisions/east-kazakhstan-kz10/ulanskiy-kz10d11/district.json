@@ -1,0 +1,45 @@
+{
+  "id": "KZ10D11",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ulanskiy",
+    "en": "Ulanskiy",
+    "slug": "ulanskiy-kz10d11"
+  },
+  "code": {
+    "id": "KZ10D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ10",
+    "level": 1,
+    "name": {
+      "local": "Шығыс Қазақстан",
+      "en": "East Kazakhstan",
+      "slug": "east-kazakhstan-kz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.773",
+    "lon": "82.191"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KZ14D10",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Shuskiy",
+    "en": "Shuskiy",
+    "slug": "shuskiy-kz14d10"
+  },
+  "code": {
+    "id": "KZ14D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ14",
+    "level": 1,
+    "name": {
+      "local": "Жамбыл",
+      "en": "Zhambyl",
+      "slug": "zhambyl-kz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.571",
+    "lon": "73.88"
+  },
+  "metadata": {},
+  "source": {}
+}

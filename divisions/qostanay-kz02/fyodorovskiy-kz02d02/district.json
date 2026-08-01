@@ -1,0 +1,45 @@
+{
+  "id": "KZ02D02",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Fyodorovskiy",
+    "en": "Fyodorovskiy",
+    "slug": "fyodorovskiy-kz02d02"
+  },
+  "code": {
+    "id": "KZ02D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ02",
+    "level": 1,
+    "name": {
+      "local": "Қостанай",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.761",
+    "lon": "62.811"
+  },
+  "metadata": {},
+  "source": {}
+}

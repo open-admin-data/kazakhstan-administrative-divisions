@@ -1,0 +1,45 @@
+{
+  "id": "KZ11D06",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Panfilovskiy",
+    "en": "Panfilovskiy",
+    "slug": "panfilovskiy-kz11d06"
+  },
+  "code": {
+    "id": "KZ11D06",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ11",
+    "level": 1,
+    "name": {
+      "local": "Алматы облысы",
+      "en": "Almaty",
+      "slug": "almaty-kz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "44.308",
+    "lon": "79.837"
+  },
+  "metadata": {},
+  "source": {}
+}

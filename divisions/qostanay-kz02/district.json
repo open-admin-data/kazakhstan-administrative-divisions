@@ -1,0 +1,767 @@
+[
+  {
+    "id": "KZ02D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Altynsarinskiy",
+      "en": "Altynsarinskiy",
+      "slug": "altynsarinskiy-kz02d10"
+    },
+    "code": {
+      "id": "KZ02D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.059",
+      "lon": "64.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amangel`dinskiy",
+      "en": "Amangel`dinskiy",
+      "slug": "amangel-dinskiy-kz02d13"
+    },
+    "code": {
+      "id": "KZ02D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.201",
+      "lon": "65.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arkalyk",
+      "en": "Arkalyk",
+      "slug": "arkalyk-kz02d06"
+    },
+    "code": {
+      "id": "KZ02D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.079",
+      "lon": "66.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Auliekol`skiy",
+      "en": "Auliekol`skiy",
+      "slug": "auliekol-skiy-kz02d14"
+    },
+    "code": {
+      "id": "KZ02D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.259",
+      "lon": "63.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D15",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Denisovskiy",
+      "en": "Denisovskiy",
+      "slug": "denisovskiy-kz02d15"
+    },
+    "code": {
+      "id": "KZ02D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.608",
+      "lon": "61.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dzhangil`dinskiy",
+      "en": "Dzhangil`dinskiy",
+      "slug": "dzhangil-dinskiy-kz02d08"
+    },
+    "code": {
+      "id": "KZ02D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.62",
+      "lon": "63.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fyodorovskiy",
+      "en": "Fyodorovskiy",
+      "slug": "fyodorovskiy-kz02d02"
+    },
+    "code": {
+      "id": "KZ02D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.761",
+      "lon": "62.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kamystinskiy",
+      "en": "Kamystinskiy",
+      "slug": "kamystinskiy-kz02d09"
+    },
+    "code": {
+      "id": "KZ02D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.584",
+      "lon": "62.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karabalykskiy",
+      "en": "Karabalykskiy",
+      "slug": "karabalykskiy-kz02d01"
+    },
+    "code": {
+      "id": "KZ02D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.514",
+      "lon": "61.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karasuskiy",
+      "en": "Karasuskiy",
+      "slug": "karasuskiy-kz02d11"
+    },
+    "code": {
+      "id": "KZ02D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.377",
+      "lon": "65.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mendykarinskiy",
+      "en": "Mendykarinskiy",
+      "slug": "mendykarinskiy-kz02d04"
+    },
+    "code": {
+      "id": "KZ02D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.929",
+      "lon": "64.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Naurzumskiy",
+      "en": "Naurzumskiy",
+      "slug": "naurzumskiy-kz02d05"
+    },
+    "code": {
+      "id": "KZ02D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.412",
+      "lon": "64.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D16",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Qostanay",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02d16"
+    },
+    "code": {
+      "id": "KZ02D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.179",
+      "lon": "63.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarykol`skiy",
+      "en": "Sarykol`skiy",
+      "slug": "sarykol-skiy-kz02d12"
+    },
+    "code": {
+      "id": "KZ02D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.461",
+      "lon": "65.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taranovskiy",
+      "en": "Taranovskiy",
+      "slug": "taranovskiy-kz02d03"
+    },
+    "code": {
+      "id": "KZ02D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.961",
+      "lon": "63.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D17",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uzunkol`skiy",
+      "en": "Uzunkol`skiy",
+      "slug": "uzunkol-skiy-kz02d17"
+    },
+    "code": {
+      "id": "KZ02D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.218",
+      "lon": "65.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhitikarinskiy",
+      "en": "Zhitikarinskiy",
+      "slug": "zhitikarinskiy-kz02d07"
+    },
+    "code": {
+      "id": "KZ02D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.94",
+      "lon": "61.115"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

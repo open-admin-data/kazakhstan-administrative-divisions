@@ -1,0 +1,45 @@
+{
+  "id": "KZ14D07",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lugovskoy",
+    "en": "Lugovskoy",
+    "slug": "lugovskoy-kz14d07"
+  },
+  "code": {
+    "id": "KZ14D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ14",
+    "level": 1,
+    "name": {
+      "local": "Жамбыл",
+      "en": "Zhambyl",
+      "slug": "zhambyl-kz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.145",
+    "lon": "72.505"
+  },
+  "metadata": {},
+  "source": {}
+}

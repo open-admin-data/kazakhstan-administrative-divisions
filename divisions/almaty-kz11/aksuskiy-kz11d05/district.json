@@ -1,0 +1,45 @@
+{
+  "id": "KZ11D05",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aksuskiy",
+    "en": "Aksuskiy",
+    "slug": "aksuskiy-kz11d05"
+  },
+  "code": {
+    "id": "KZ11D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ11",
+    "level": 1,
+    "name": {
+      "local": "Алматы облысы",
+      "en": "Almaty",
+      "slug": "almaty-kz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "45.447",
+    "lon": "79.157"
+  },
+  "metadata": {},
+  "source": {}
+}

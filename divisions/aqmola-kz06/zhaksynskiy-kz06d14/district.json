@@ -1,0 +1,45 @@
+{
+  "id": "KZ06D14",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zhaksynskiy",
+    "en": "Zhaksynskiy",
+    "slug": "zhaksynskiy-kz06d14"
+  },
+  "code": {
+    "id": "KZ06D14",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ06",
+    "level": 1,
+    "name": {
+      "local": "Ақмола",
+      "en": "Aqmola",
+      "slug": "aqmola-kz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.631",
+    "lon": "67.426"
+  },
+  "metadata": {},
+  "source": {}
+}

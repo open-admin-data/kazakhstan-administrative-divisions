@@ -1,0 +1,33 @@
+{
+  "id": "KZ04",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Атырау",
+    "en": "Atyrau",
+    "slug": "atyrau-kz04"
+  },
+  "code": {
+    "id": "KZ04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.602",
+    "lon": "53.75"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/atyrau-kz04/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

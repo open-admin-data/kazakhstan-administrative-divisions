@@ -1,0 +1,45 @@
+{
+  "id": "KZ05D07",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dzhangalinskiy",
+    "en": "Dzhangalinskiy",
+    "slug": "dzhangalinskiy-kz05d07"
+  },
+  "code": {
+    "id": "KZ05D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ05",
+    "level": 1,
+    "name": {
+      "local": "Батыс Қазақстан",
+      "en": "West Kazakhstan",
+      "slug": "west-kazakhstan-kz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.902",
+    "lon": "50.314"
+  },
+  "metadata": {},
+  "source": {}
+}

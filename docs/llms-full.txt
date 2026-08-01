@@ -1,0 +1,43 @@
+# Kazakhstan Administrative Divisions — Full Reference
+
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Aqtöbe](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/aqtobe-kz01.txt) — 13 districts
+- [Qostanay](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/qostanay-kz02.txt) — 17 districts
+- [Qyzylorda](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/qyzylorda-kz03.txt) — 8 districts
+- [Atyrau](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/atyrau-kz04.txt) — 8 districts
+- [West Kazakhstan](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/west-kazakhstan-kz05.txt) — 12 districts
+- [Aqmola](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/aqmola-kz06.txt) — 15 districts
+- [Qaraghandy](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/qaraghandy-kz07.txt) — 9 districts
+- [North Kazakhstan](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/north-kazakhstan-kz08.txt) — 12 districts
+- [Pavlodar](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/pavlodar-kz09.txt) — 10 districts
+- [East Kazakhstan](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/east-kazakhstan-kz10.txt) — 16 districts
+- [Almaty](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/almaty-kz11.txt) — 16 districts
+- [Mangghystau](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/mangghystau-kz12.txt) — 5 districts
+- [South Kazakhstan](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/south-kazakhstan-kz13.txt) — 14 districts
+- [Zhambyl](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/zhambyl-kz14.txt) — 11 districts
+- [Almaty City](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/almaty-city-kz15.txt) — 1 districts
+- [Astana](https://github.com/open-admin-data/kazakhstan-administrative-divisions/blob/main/docs/llms-full/astana-kz16.txt) — 1 districts
+
+## Summary
+
+| Region | Districts | 
+|---|---|
+| Aqtöbe | 13 | 
+| Qostanay | 17 | 
+| Qyzylorda | 8 | 
+| Atyrau | 8 | 
+| West Kazakhstan | 12 | 
+| Aqmola | 15 | 
+| Qaraghandy | 9 | 
+| North Kazakhstan | 12 | 
+| Pavlodar | 10 | 
+| East Kazakhstan | 16 | 
+| Almaty | 16 | 
+| Mangghystau | 5 | 
+| South Kazakhstan | 14 | 
+| Zhambyl | 11 | 
+| Almaty City | 1 | 
+| Astana | 1 | 

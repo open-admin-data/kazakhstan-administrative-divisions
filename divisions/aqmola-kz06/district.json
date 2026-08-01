@@ -1,0 +1,677 @@
+[
+  {
+    "id": "KZ06D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akkol`skiy",
+      "en": "Akkol`skiy",
+      "slug": "akkol-skiy-kz06d12"
+    },
+    "code": {
+      "id": "KZ06D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.241",
+      "lon": "71.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arshalynskiy",
+      "en": "Arshalynskiy",
+      "slug": "arshalynskiy-kz06d08"
+    },
+    "code": {
+      "id": "KZ06D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.939",
+      "lon": "72.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Astrakhansiy",
+      "en": "Astrakhansiy",
+      "slug": "astrakhansiy-kz06d04"
+    },
+    "code": {
+      "id": "KZ06D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.463",
+      "lon": "69.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atbasarskiy",
+      "en": "Atbasarskiy",
+      "slug": "atbasarskiy-kz06d02"
+    },
+    "code": {
+      "id": "KZ06D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.547",
+      "lon": "68.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulandynskiy",
+      "en": "Bulandynskiy",
+      "slug": "bulandynskiy-kz06d03"
+    },
+    "code": {
+      "id": "KZ06D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.201",
+      "lon": "69.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Egindykol`skiy",
+      "en": "Egindykol`skiy",
+      "slug": "egindykol-skiy-kz06d10"
+    },
+    "code": {
+      "id": "KZ06D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.871",
+      "lon": "69.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Enbekshil`derskiy",
+      "en": "Enbekshil`derskiy",
+      "slug": "enbekshil-derskiy-kz06d11"
+    },
+    "code": {
+      "id": "KZ06D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.931",
+      "lon": "71.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ereymengauskiy",
+      "en": "Ereymengauskiy",
+      "slug": "ereymengauskiy-kz06d13"
+    },
+    "code": {
+      "id": "KZ06D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.898",
+      "lon": "73.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Korgalzhynskiy",
+      "en": "Korgalzhynskiy",
+      "slug": "korgalzhynskiy-kz06d05"
+    },
+    "code": {
+      "id": "KZ06D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.523",
+      "lon": "69.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sandyktauskiy",
+      "en": "Sandyktauskiy",
+      "slug": "sandyktauskiy-kz06d06"
+    },
+    "code": {
+      "id": "KZ06D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.42",
+      "lon": "68.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shortandinskiy",
+      "en": "Shortandinskiy",
+      "slug": "shortandinskiy-kz06d07"
+    },
+    "code": {
+      "id": "KZ06D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.62",
+      "lon": "71.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shuchinskiy",
+      "en": "Shuchinskiy",
+      "slug": "shuchinskiy-kz06d01"
+    },
+    "code": {
+      "id": "KZ06D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.115",
+      "lon": "70.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D15",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zerendinskiy",
+      "en": "Zerendinskiy",
+      "slug": "zerendinskiy-kz06d15"
+    },
+    "code": {
+      "id": "KZ06D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.095",
+      "lon": "69.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhaksynskiy",
+      "en": "Zhaksynskiy",
+      "slug": "zhaksynskiy-kz06d14"
+    },
+    "code": {
+      "id": "KZ06D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.631",
+      "lon": "67.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zharkainskiy",
+      "en": "Zharkainskiy",
+      "slug": "zharkainskiy-kz06d09"
+    },
+    "code": {
+      "id": "KZ06D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.083",
+      "lon": "66.557"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

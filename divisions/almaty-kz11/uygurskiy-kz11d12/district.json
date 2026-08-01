@@ -1,0 +1,45 @@
+{
+  "id": "KZ11D12",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Uygurskiy",
+    "en": "Uygurskiy",
+    "slug": "uygurskiy-kz11d12"
+  },
+  "code": {
+    "id": "KZ11D12",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ11",
+    "level": 1,
+    "name": {
+      "local": "Алматы облысы",
+      "en": "Almaty",
+      "slug": "almaty-kz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.577",
+    "lon": "79.548"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KZ13D07",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ordabasynskiy",
+    "en": "Ordabasynskiy",
+    "slug": "ordabasynskiy-kz13d07"
+  },
+  "code": {
+    "id": "KZ13D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ13",
+    "level": 1,
+    "name": {
+      "local": "Оңтүстік Қазақстан",
+      "en": "South Kazakhstan",
+      "slug": "south-kazakhstan-kz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.86",
+    "lon": "68.918"
+  },
+  "metadata": {},
+  "source": {}
+}

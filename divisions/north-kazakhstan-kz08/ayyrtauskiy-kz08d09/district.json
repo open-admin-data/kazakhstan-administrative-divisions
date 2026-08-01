@@ -1,0 +1,45 @@
+{
+  "id": "KZ08D09",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ayyrtauskiy",
+    "en": "Ayyrtauskiy",
+    "slug": "ayyrtauskiy-kz08d09"
+  },
+  "code": {
+    "id": "KZ08D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ08",
+    "level": 1,
+    "name": {
+      "local": "Солтүстік Қазақстан",
+      "en": "North Kazakhstan",
+      "slug": "north-kazakhstan-kz08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.143",
+    "lon": "68.102"
+  },
+  "metadata": {},
+  "source": {}
+}

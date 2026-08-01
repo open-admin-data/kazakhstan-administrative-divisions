@@ -1,0 +1,45 @@
+{
+  "id": "KZ14D05",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Moyynkumskiy",
+    "en": "Moyynkumskiy",
+    "slug": "moyynkumskiy-kz14d05"
+  },
+  "code": {
+    "id": "KZ14D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ14",
+    "level": 1,
+    "name": {
+      "local": "Жамбыл",
+      "en": "Zhambyl",
+      "slug": "zhambyl-kz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "44.931",
+    "lon": "72.754"
+  },
+  "metadata": {},
+  "source": {}
+}

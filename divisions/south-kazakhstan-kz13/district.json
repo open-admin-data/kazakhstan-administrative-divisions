@@ -1,0 +1,632 @@
+[
+  {
+    "id": "KZ13D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arysskiy",
+      "en": "Arysskiy",
+      "slug": "arysskiy-kz13d04"
+    },
+    "code": {
+      "id": "KZ13D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.258",
+      "lon": "68.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baydibekskiy",
+      "en": "Baydibekskiy",
+      "slug": "baydibekskiy-kz13d05"
+    },
+    "code": {
+      "id": "KZ13D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.049",
+      "lon": "69.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chardarinskiy",
+      "en": "Chardarinskiy",
+      "slug": "chardarinskiy-kz13d02"
+    },
+    "code": {
+      "id": "KZ13D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.588",
+      "lon": "67.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kazygurtskiy",
+      "en": "Kazygurtskiy",
+      "slug": "kazygurtskiy-kz13d06"
+    },
+    "code": {
+      "id": "KZ13D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.859",
+      "lon": "69.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maktaaral`skiy",
+      "en": "Maktaaral`skiy",
+      "slug": "maktaaral-skiy-kz13d01"
+    },
+    "code": {
+      "id": "KZ13D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.812",
+      "lon": "68.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ordabasynskiy",
+      "en": "Ordabasynskiy",
+      "slug": "ordabasynskiy-kz13d07"
+    },
+    "code": {
+      "id": "KZ13D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.86",
+      "lon": "68.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Otrarskiy",
+      "en": "Otrarskiy",
+      "slug": "otrarskiy-kz13d08"
+    },
+    "code": {
+      "id": "KZ13D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.639",
+      "lon": "67.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saryagashskiy",
+      "en": "Saryagashskiy",
+      "slug": "saryagashskiy-kz13d14"
+    },
+    "code": {
+      "id": "KZ13D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.469",
+      "lon": "68.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sayramskiy",
+      "en": "Sayramskiy",
+      "slug": "sayramskiy-kz13d09"
+    },
+    "code": {
+      "id": "KZ13D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.402",
+      "lon": "69.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shymkent",
+      "en": "Shymkent",
+      "slug": "shymkent-kz13d12"
+    },
+    "code": {
+      "id": "KZ13D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.339",
+      "lon": "69.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suzakskiy",
+      "en": "Suzakskiy",
+      "slug": "suzakskiy-kz13d10"
+    },
+    "code": {
+      "id": "KZ13D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.905",
+      "lon": "68.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tolebiyskiy",
+      "en": "Tolebiyskiy",
+      "slug": "tolebiyskiy-kz13d03"
+    },
+    "code": {
+      "id": "KZ13D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.213",
+      "lon": "70.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Turkestan",
+      "en": "Turkestan",
+      "slug": "turkestan-kz13d13"
+    },
+    "code": {
+      "id": "KZ13D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.466",
+      "lon": "68.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tyul`kubaskiy",
+      "en": "Tyul`kubaskiy",
+      "slug": "tyul-kubaskiy-kz13d11"
+    },
+    "code": {
+      "id": "KZ13D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.546",
+      "lon": "70.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

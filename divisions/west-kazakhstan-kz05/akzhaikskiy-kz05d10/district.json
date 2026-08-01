@@ -1,0 +1,45 @@
+{
+  "id": "KZ05D10",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Akzhaikskiy",
+    "en": "Akzhaikskiy",
+    "slug": "akzhaikskiy-kz05d10"
+  },
+  "code": {
+    "id": "KZ05D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ05",
+    "level": 1,
+    "name": {
+      "local": "Батыс Қазақстан",
+      "en": "West Kazakhstan",
+      "slug": "west-kazakhstan-kz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.415",
+    "lon": "51.833"
+  },
+  "metadata": {},
+  "source": {}
+}

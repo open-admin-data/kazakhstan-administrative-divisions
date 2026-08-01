@@ -1,0 +1,45 @@
+{
+  "id": "KZ10D13",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Beskaragayskiy",
+    "en": "Beskaragayskiy",
+    "slug": "beskaragayskiy-kz10d13"
+  },
+  "code": {
+    "id": "KZ10D13",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ10",
+    "level": 1,
+    "name": {
+      "local": "Шығыс Қазақстан",
+      "en": "East Kazakhstan",
+      "slug": "east-kazakhstan-kz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.99",
+    "lon": "79.164"
+  },
+  "metadata": {},
+  "source": {}
+}

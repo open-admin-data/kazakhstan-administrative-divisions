@@ -1,0 +1,47 @@
+[
+  {
+    "id": "KZ15D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Almaty",
+      "en": "Almaty",
+      "slug": "almaty-kz15d01"
+    },
+    "code": {
+      "id": "KZ15D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ15",
+      "level": 1,
+      "name": {
+        "local": "Алматы",
+        "en": "Almaty City",
+        "slug": "almaty-city-kz15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ15",
+        "level": 1,
+        "name": {
+          "local": "Алматы",
+          "en": "Almaty City",
+          "slug": "almaty-city-kz15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.236",
+      "lon": "76.91"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

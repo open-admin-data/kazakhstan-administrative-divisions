@@ -1,0 +1,45 @@
+{
+  "id": "KZ03D07",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Qyzylorda",
+    "en": "Qyzylorda",
+    "slug": "qyzylorda-kz03d07"
+  },
+  "code": {
+    "id": "KZ03D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ03",
+    "level": 1,
+    "name": {
+      "local": "Қызылорда",
+      "en": "Qyzylorda",
+      "slug": "qyzylorda-kz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "44.881",
+    "lon": "65.515"
+  },
+  "metadata": {},
+  "source": {}
+}

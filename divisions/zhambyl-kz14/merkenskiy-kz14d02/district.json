@@ -1,0 +1,45 @@
+{
+  "id": "KZ14D02",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Merkenskiy",
+    "en": "Merkenskiy",
+    "slug": "merkenskiy-kz14d02"
+  },
+  "code": {
+    "id": "KZ14D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ14",
+    "level": 1,
+    "name": {
+      "local": "Жамбыл",
+      "en": "Zhambyl",
+      "slug": "zhambyl-kz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.828",
+    "lon": "73.274"
+  },
+  "metadata": {},
+  "source": {}
+}

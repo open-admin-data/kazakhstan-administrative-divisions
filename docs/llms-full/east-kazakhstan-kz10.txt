@@ -1,0 +1,89 @@
+# East Kazakhstan — Kazakhstan Administrative Divisions
+
+> 16 districts
+> Code: KZ10
+> Coordinates: 48.672, 81.455
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Ayagozskiy
+
+Code: KZ10D06, Coordinates: 47.75, 78.776
+
+
+### Beskaragayskiy
+
+Code: KZ10D13, Coordinates: 50.99, 79.164
+
+
+### Borodulikhinskiy
+
+Code: KZ10D01, Coordinates: 50.649, 81.175
+
+
+### Glubokovskiy
+
+Code: KZ10D02, Coordinates: 50.339, 82.877
+
+
+### Katon-Karagayskiy
+
+Code: KZ10D04, Coordinates: 49.297, 85.514
+
+
+### Kokpektinskiy
+
+Code: KZ10D07, Coordinates: 48.654, 82.903
+
+
+### Kurchumskiy
+
+Code: KZ10D10, Coordinates: 48.396, 84.675
+
+
+### Leninogorsk
+
+Code: KZ10D15, Coordinates: 50.391, 83.742
+
+
+### Semey
+
+Code: KZ10D14, Coordinates: 49.678, 77.955
+
+
+### Shemonaikhinskiy
+
+Code: KZ10D12, Coordinates: 50.565, 82.293
+
+
+### Tarbagatayskiy
+
+Code: KZ10D09, Coordinates: 47.682, 82.895
+
+
+### Ulanskiy
+
+Code: KZ10D11, Coordinates: 49.773, 82.191
+
+
+### Urdzharskiy
+
+Code: KZ10D16, Coordinates: 46.939, 81.553
+
+
+### Zaysanskiy
+
+Code: KZ10D03, Coordinates: 47.435, 84.968
+
+
+### Zharminskiy
+
+Code: KZ10D08, Coordinates: 49.187, 81.138
+
+
+### Zyryanovsk
+
+Code: KZ10D05, Coordinates: 49.589, 85.258
+
+

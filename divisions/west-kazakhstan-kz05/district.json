@@ -1,0 +1,542 @@
+[
+  {
+    "id": "KZ05D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akzhaikskiy",
+      "en": "Akzhaikskiy",
+      "slug": "akzhaikskiy-kz05d10"
+    },
+    "code": {
+      "id": "KZ05D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.415",
+      "lon": "51.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Burlinskiy",
+      "en": "Burlinskiy",
+      "slug": "burlinskiy-kz05d01"
+    },
+    "code": {
+      "id": "KZ05D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.119",
+      "lon": "53.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chingirlauskiy",
+      "en": "Chingirlauskiy",
+      "slug": "chingirlauskiy-kz05d11"
+    },
+    "code": {
+      "id": "KZ05D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.616",
+      "lon": "54.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dzhangalinskiy",
+      "en": "Dzhangalinskiy",
+      "slug": "dzhangalinskiy-kz05d07"
+    },
+    "code": {
+      "id": "KZ05D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.902",
+      "lon": "50.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dzhanybekskiy",
+      "en": "Dzhanybekskiy",
+      "slug": "dzhanybekskiy-kz05d02"
+    },
+    "code": {
+      "id": "KZ05D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.566",
+      "lon": "47.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karatobinskiy",
+      "en": "Karatobinskiy",
+      "slug": "karatobinskiy-kz05d05"
+    },
+    "code": {
+      "id": "KZ05D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.497",
+      "lon": "53.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaztalovskiy",
+      "en": "Kaztalovskiy",
+      "slug": "kaztalovskiy-kz05d09"
+    },
+    "code": {
+      "id": "KZ05D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.756",
+      "lon": "49.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Syrymskiy",
+      "en": "Syrymskiy",
+      "slug": "syrymskiy-kz05d06"
+    },
+    "code": {
+      "id": "KZ05D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.226",
+      "lon": "52.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taskalinskiy",
+      "en": "Taskalinskiy",
+      "slug": "taskalinskiy-kz05d03"
+    },
+    "code": {
+      "id": "KZ05D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.831",
+      "lon": "49.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Terektinskiy",
+      "en": "Terektinskiy",
+      "slug": "terektinskiy-kz05d12"
+    },
+    "code": {
+      "id": "KZ05D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.716",
+      "lon": "51.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Urdinskiy",
+      "en": "Urdinskiy",
+      "slug": "urdinskiy-kz05d08"
+    },
+    "code": {
+      "id": "KZ05D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.641",
+      "lon": "47.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zelenovskiy",
+      "en": "Zelenovskiy",
+      "slug": "zelenovskiy-kz05d04"
+    },
+    "code": {
+      "id": "KZ05D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.308",
+      "lon": "51.038"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

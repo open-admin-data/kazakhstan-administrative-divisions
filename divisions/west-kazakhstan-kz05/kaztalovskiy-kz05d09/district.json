@@ -1,0 +1,45 @@
+{
+  "id": "KZ05D09",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaztalovskiy",
+    "en": "Kaztalovskiy",
+    "slug": "kaztalovskiy-kz05d09"
+  },
+  "code": {
+    "id": "KZ05D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ05",
+    "level": 1,
+    "name": {
+      "local": "Батыс Қазақстан",
+      "en": "West Kazakhstan",
+      "slug": "west-kazakhstan-kz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.756",
+    "lon": "49.313"
+  },
+  "metadata": {},
+  "source": {}
+}

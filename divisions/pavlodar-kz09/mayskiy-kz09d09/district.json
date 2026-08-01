@@ -1,0 +1,45 @@
+{
+  "id": "KZ09D09",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mayskiy",
+    "en": "Mayskiy",
+    "slug": "mayskiy-kz09d09"
+  },
+  "code": {
+    "id": "KZ09D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ09",
+    "level": 1,
+    "name": {
+      "local": "Павлодар",
+      "en": "Pavlodar",
+      "slug": "pavlodar-kz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.02",
+    "lon": "77.412"
+  },
+  "metadata": {},
+  "source": {}
+}

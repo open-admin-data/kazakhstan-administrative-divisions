@@ -1,0 +1,33 @@
+{
+  "id": "KZ07",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Қарағанды",
+    "en": "Qaraghandy",
+    "slug": "qaraghandy-kz07"
+  },
+  "code": {
+    "id": "KZ07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.231",
+    "lon": "71.782"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/qaraghandy-kz07/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

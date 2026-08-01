@@ -1,0 +1,49 @@
+# Atyrau — Kazakhstan Administrative Divisions
+
+> 8 districts
+> Code: KZ04
+> Coordinates: 47.602, 53.75
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Atyrau
+
+Code: KZ04D04, Coordinates: 47.042, 52.149
+
+
+### Inderskiy
+
+Code: KZ04D02, Coordinates: 48.298, 51.273
+
+
+### Isatayskiy
+
+Code: KZ04D03, Coordinates: 47.412, 50.372
+
+
+### Kurmangazinskiy
+
+Code: KZ04D01, Coordinates: 47.472, 49.08
+
+
+### Kzylkoginskiy
+
+Code: KZ04D05, Coordinates: 48.368, 53.545
+
+
+### Makatskiy
+
+Code: KZ04D06, Coordinates: 47.399, 53.194
+
+
+### Makhambetskiy
+
+Code: KZ04D07, Coordinates: 47.685, 51.817
+
+
+### Zhylyoyskiy
+
+Code: KZ04D08, Coordinates: 46.978, 54.401
+
+

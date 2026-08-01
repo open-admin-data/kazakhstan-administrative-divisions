@@ -1,0 +1,18 @@
+# Data from Open Admin Data (https://openadmindata.org/kz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/kazakhstan-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.district,zip_codes,geo.lat,geo.lon,source_url
+KZ01,1,Облыс,Region,Ақтөбе,Aqtöbe,aqtobe-kz01,KZ01,,,,,,13,,48.299,58.073,https://openadmindata.org/kz/regions/aqtobe-kz01/
+KZ02,1,Облыс,Region,Қостанай,Qostanay,qostanay-kz02,KZ02,,,,,,17,,52.108,63.68,https://openadmindata.org/kz/regions/qostanay-kz02/
+KZ03,1,Облыс,Region,Қызылорда,Qyzylorda,qyzylorda-kz03,KZ03,,,,,,8,,45.253,63.648,https://openadmindata.org/kz/regions/qyzylorda-kz03/
+KZ04,1,Облыс,Region,Атырау,Atyrau,atyrau-kz04,KZ04,,,,,,8,,47.602,53.75,https://openadmindata.org/kz/regions/atyrau-kz04/
+KZ05,1,Облыс,Region,Батыс Қазақстан,West Kazakhstan,west-kazakhstan-kz05,KZ05,,,,,,12,,49.799,50.276,https://openadmindata.org/kz/regions/west-kazakhstan-kz05/
+KZ06,1,Облыс,Region,Ақмола,Aqmola,aqmola-kz06,KZ06,,,,,,15,,51.861,69.909,https://openadmindata.org/kz/regions/aqmola-kz06/
+KZ07,1,Облыс,Region,Қарағанды,Qaraghandy,qaraghandy-kz07,KZ07,,,,,,9,,48.231,71.782,https://openadmindata.org/kz/regions/qaraghandy-kz07/
+KZ08,1,Облыс,Region,Солтүстік Қазақстан,North Kazakhstan,north-kazakhstan-kz08,KZ08,,,,,,12,,54.45,69.223,https://openadmindata.org/kz/regions/north-kazakhstan-kz08/
+KZ09,1,Облыс,Region,Павлодар,Pavlodar,pavlodar-kz09,KZ09,,,,,,10,,52.224,76.005,https://openadmindata.org/kz/regions/pavlodar-kz09/
+KZ10,1,Облыс,Region,Шығыс Қазақстан,East Kazakhstan,east-kazakhstan-kz10,KZ10,,,,,,16,,48.672,81.455,https://openadmindata.org/kz/regions/east-kazakhstan-kz10/
+KZ11,1,Облыс,Region,Алматы облысы,Almaty,almaty-kz11,KZ11,,,,,,16,,44.88,78.232,https://openadmindata.org/kz/regions/almaty-kz11/
+KZ12,1,Облыс,Region,Маңғыстау,Mangghystau,mangghystau-kz12,KZ12,,,,,,5,,44.161,54.174,https://openadmindata.org/kz/regions/mangghystau-kz12/
+KZ13,1,Облыс,Region,Оңтүстік Қазақстан,South Kazakhstan,south-kazakhstan-kz13,KZ13,,,,,,14,,42.47,68.697,https://openadmindata.org/kz/regions/south-kazakhstan-kz13/
+KZ14,1,Облыс,Region,Жамбыл,Zhambyl,zhambyl-kz14,KZ14,,,,,,11,,44.377,72.211,https://openadmindata.org/kz/regions/zhambyl-kz14/
+KZ15,1,Облыс,Region,Алматы,Almaty City,almaty-city-kz15,KZ15,,,,,,1,,43.236,76.91,https://openadmindata.org/kz/regions/almaty-city-kz15/
+KZ16,1,Облыс,Region,Астана,Astana,astana-kz16,KZ16,,,,,,1,,51.139,71.412,https://openadmindata.org/kz/regions/astana-kz16/

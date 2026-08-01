@@ -1,0 +1,45 @@
+{
+  "id": "KZ11D07",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Alakolskiy",
+    "en": "Alakolskiy",
+    "slug": "alakolskiy-kz11d07"
+  },
+  "code": {
+    "id": "KZ11D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ11",
+    "level": 1,
+    "name": {
+      "local": "Алматы облысы",
+      "en": "Almaty",
+      "slug": "almaty-kz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.005",
+    "lon": "80.977"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KZ12D01",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karakiyanskiy",
+    "en": "Karakiyanskiy",
+    "slug": "karakiyanskiy-kz12d01"
+  },
+  "code": {
+    "id": "KZ12D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ12",
+    "level": 1,
+    "name": {
+      "local": "Маңғыстау",
+      "en": "Mangghystau",
+      "slug": "mangghystau-kz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.478",
+    "lon": "51.649"
+  },
+  "metadata": {},
+  "source": {}
+}

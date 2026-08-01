@@ -1,0 +1,45 @@
+{
+  "id": "KZ11D08",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karatal`skiy",
+    "en": "Karatal`skiy",
+    "slug": "karatal-skiy-kz11d08"
+  },
+  "code": {
+    "id": "KZ11D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ11",
+    "level": 1,
+    "name": {
+      "local": "Алматы облысы",
+      "en": "Almaty",
+      "slug": "almaty-kz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "45.811",
+    "lon": "77.09"
+  },
+  "metadata": {},
+  "source": {}
+}

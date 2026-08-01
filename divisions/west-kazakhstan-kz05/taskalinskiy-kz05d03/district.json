@@ -1,0 +1,45 @@
+{
+  "id": "KZ05D03",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Taskalinskiy",
+    "en": "Taskalinskiy",
+    "slug": "taskalinskiy-kz05d03"
+  },
+  "code": {
+    "id": "KZ05D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ05",
+    "level": 1,
+    "name": {
+      "local": "Батыс Қазақстан",
+      "en": "West Kazakhstan",
+      "slug": "west-kazakhstan-kz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.831",
+    "lon": "49.993"
+  },
+  "metadata": {},
+  "source": {}
+}

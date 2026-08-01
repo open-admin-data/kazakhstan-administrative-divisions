@@ -1,0 +1,45 @@
+{
+  "id": "KZ07D06",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zhanaarkinskiy",
+    "en": "Zhanaarkinskiy",
+    "slug": "zhanaarkinskiy-kz07d06"
+  },
+  "code": {
+    "id": "KZ07D06",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ07",
+    "level": 1,
+    "name": {
+      "local": "Қарағанды",
+      "en": "Qaraghandy",
+      "slug": "qaraghandy-kz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.324",
+    "lon": "70.371"
+  },
+  "metadata": {},
+  "source": {}
+}

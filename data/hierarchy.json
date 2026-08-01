@@ -1,0 +1,2245 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/kz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/kazakhstan-administrative-divisions",
+  "data": [
+    {
+      "id": "KZ01",
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      },
+      "code": {
+        "id": "KZ01",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ01D01",
+          "name": {
+            "local": "Martukskiy",
+            "en": "Martukskiy",
+            "slug": "martukskiy-kz01d01"
+          },
+          "code": {
+            "id": "KZ01D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D02",
+          "name": {
+            "local": "Bayganinskiy",
+            "en": "Bayganinskiy",
+            "slug": "bayganinskiy-kz01d02"
+          },
+          "code": {
+            "id": "KZ01D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D03",
+          "name": {
+            "local": "Uilskiy",
+            "en": "Uilskiy",
+            "slug": "uilskiy-kz01d03"
+          },
+          "code": {
+            "id": "KZ01D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D04",
+          "name": {
+            "local": "Khobdinskiy",
+            "en": "Khobdinskiy",
+            "slug": "khobdinskiy-kz01d04"
+          },
+          "code": {
+            "id": "KZ01D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D05",
+          "name": {
+            "local": "Alginskiy",
+            "en": "Alginskiy",
+            "slug": "alginskiy-kz01d05"
+          },
+          "code": {
+            "id": "KZ01D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D06",
+          "name": {
+            "local": "Khromtauskiy",
+            "en": "Khromtauskiy",
+            "slug": "khromtauskiy-kz01d06"
+          },
+          "code": {
+            "id": "KZ01D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D07",
+          "name": {
+            "local": "Shalkarskiy",
+            "en": "Shalkarskiy",
+            "slug": "shalkarskiy-kz01d07"
+          },
+          "code": {
+            "id": "KZ01D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D08",
+          "name": {
+            "local": "Aqtobe",
+            "en": "Aqtobe",
+            "slug": "aqtobe-kz01d08"
+          },
+          "code": {
+            "id": "KZ01D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D09",
+          "name": {
+            "local": "Kargalinskiy",
+            "en": "Kargalinskiy",
+            "slug": "kargalinskiy-kz01d09"
+          },
+          "code": {
+            "id": "KZ01D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D10",
+          "name": {
+            "local": "Temirskiy",
+            "en": "Temirskiy",
+            "slug": "temirskiy-kz01d10"
+          },
+          "code": {
+            "id": "KZ01D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D11",
+          "name": {
+            "local": "Irgizskiy",
+            "en": "Irgizskiy",
+            "slug": "irgizskiy-kz01d11"
+          },
+          "code": {
+            "id": "KZ01D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D12",
+          "name": {
+            "local": "Aytekebiyskiy",
+            "en": "Aytekebiyskiy",
+            "slug": "aytekebiyskiy-kz01d12"
+          },
+          "code": {
+            "id": "KZ01D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ01D13",
+          "name": {
+            "local": "Mugalzharskiy",
+            "en": "Mugalzharskiy",
+            "slug": "mugalzharskiy-kz01d13"
+          },
+          "code": {
+            "id": "KZ01D13",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ02",
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      },
+      "code": {
+        "id": "KZ02",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ02D01",
+          "name": {
+            "local": "Karabalykskiy",
+            "en": "Karabalykskiy",
+            "slug": "karabalykskiy-kz02d01"
+          },
+          "code": {
+            "id": "KZ02D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D02",
+          "name": {
+            "local": "Fyodorovskiy",
+            "en": "Fyodorovskiy",
+            "slug": "fyodorovskiy-kz02d02"
+          },
+          "code": {
+            "id": "KZ02D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D03",
+          "name": {
+            "local": "Taranovskiy",
+            "en": "Taranovskiy",
+            "slug": "taranovskiy-kz02d03"
+          },
+          "code": {
+            "id": "KZ02D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D04",
+          "name": {
+            "local": "Mendykarinskiy",
+            "en": "Mendykarinskiy",
+            "slug": "mendykarinskiy-kz02d04"
+          },
+          "code": {
+            "id": "KZ02D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D05",
+          "name": {
+            "local": "Naurzumskiy",
+            "en": "Naurzumskiy",
+            "slug": "naurzumskiy-kz02d05"
+          },
+          "code": {
+            "id": "KZ02D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D06",
+          "name": {
+            "local": "Arkalyk",
+            "en": "Arkalyk",
+            "slug": "arkalyk-kz02d06"
+          },
+          "code": {
+            "id": "KZ02D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D07",
+          "name": {
+            "local": "Zhitikarinskiy",
+            "en": "Zhitikarinskiy",
+            "slug": "zhitikarinskiy-kz02d07"
+          },
+          "code": {
+            "id": "KZ02D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D08",
+          "name": {
+            "local": "Dzhangil`dinskiy",
+            "en": "Dzhangil`dinskiy",
+            "slug": "dzhangil-dinskiy-kz02d08"
+          },
+          "code": {
+            "id": "KZ02D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D09",
+          "name": {
+            "local": "Kamystinskiy",
+            "en": "Kamystinskiy",
+            "slug": "kamystinskiy-kz02d09"
+          },
+          "code": {
+            "id": "KZ02D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D10",
+          "name": {
+            "local": "Altynsarinskiy",
+            "en": "Altynsarinskiy",
+            "slug": "altynsarinskiy-kz02d10"
+          },
+          "code": {
+            "id": "KZ02D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D11",
+          "name": {
+            "local": "Karasuskiy",
+            "en": "Karasuskiy",
+            "slug": "karasuskiy-kz02d11"
+          },
+          "code": {
+            "id": "KZ02D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D12",
+          "name": {
+            "local": "Sarykol`skiy",
+            "en": "Sarykol`skiy",
+            "slug": "sarykol-skiy-kz02d12"
+          },
+          "code": {
+            "id": "KZ02D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D13",
+          "name": {
+            "local": "Amangel`dinskiy",
+            "en": "Amangel`dinskiy",
+            "slug": "amangel-dinskiy-kz02d13"
+          },
+          "code": {
+            "id": "KZ02D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D14",
+          "name": {
+            "local": "Auliekol`skiy",
+            "en": "Auliekol`skiy",
+            "slug": "auliekol-skiy-kz02d14"
+          },
+          "code": {
+            "id": "KZ02D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D15",
+          "name": {
+            "local": "Denisovskiy",
+            "en": "Denisovskiy",
+            "slug": "denisovskiy-kz02d15"
+          },
+          "code": {
+            "id": "KZ02D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D16",
+          "name": {
+            "local": "Qostanay",
+            "en": "Qostanay",
+            "slug": "qostanay-kz02d16"
+          },
+          "code": {
+            "id": "KZ02D16",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ02D17",
+          "name": {
+            "local": "Uzunkol`skiy",
+            "en": "Uzunkol`skiy",
+            "slug": "uzunkol-skiy-kz02d17"
+          },
+          "code": {
+            "id": "KZ02D17",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ03",
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      },
+      "code": {
+        "id": "KZ03",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ03D01",
+          "name": {
+            "local": "Kazalinskiy",
+            "en": "Kazalinskiy",
+            "slug": "kazalinskiy-kz03d01"
+          },
+          "code": {
+            "id": "KZ03D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ03D02",
+          "name": {
+            "local": "Aral`skiy",
+            "en": "Aral`skiy",
+            "slug": "aral-skiy-kz03d02"
+          },
+          "code": {
+            "id": "KZ03D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ03D03",
+          "name": {
+            "local": "Zhanakorganskiy",
+            "en": "Zhanakorganskiy",
+            "slug": "zhanakorganskiy-kz03d03"
+          },
+          "code": {
+            "id": "KZ03D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ03D04",
+          "name": {
+            "local": "Syrdariya",
+            "en": "Syrdariya",
+            "slug": "syrdariya-kz03d04"
+          },
+          "code": {
+            "id": "KZ03D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ03D05",
+          "name": {
+            "local": "Zhalagashskiy",
+            "en": "Zhalagashskiy",
+            "slug": "zhalagashskiy-kz03d05"
+          },
+          "code": {
+            "id": "KZ03D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ03D06",
+          "name": {
+            "local": "Shieli",
+            "en": "Shieli",
+            "slug": "shieli-kz03d06"
+          },
+          "code": {
+            "id": "KZ03D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ03D07",
+          "name": {
+            "local": "Qyzylorda",
+            "en": "Qyzylorda",
+            "slug": "qyzylorda-kz03d07"
+          },
+          "code": {
+            "id": "KZ03D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ03D08",
+          "name": {
+            "local": "Karmakchinskiy",
+            "en": "Karmakchinskiy",
+            "slug": "karmakchinskiy-kz03d08"
+          },
+          "code": {
+            "id": "KZ03D08",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ04",
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      },
+      "code": {
+        "id": "KZ04",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ04D01",
+          "name": {
+            "local": "Kurmangazinskiy",
+            "en": "Kurmangazinskiy",
+            "slug": "kurmangazinskiy-kz04d01"
+          },
+          "code": {
+            "id": "KZ04D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ04D02",
+          "name": {
+            "local": "Inderskiy",
+            "en": "Inderskiy",
+            "slug": "inderskiy-kz04d02"
+          },
+          "code": {
+            "id": "KZ04D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ04D03",
+          "name": {
+            "local": "Isatayskiy",
+            "en": "Isatayskiy",
+            "slug": "isatayskiy-kz04d03"
+          },
+          "code": {
+            "id": "KZ04D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ04D04",
+          "name": {
+            "local": "Atyrau",
+            "en": "Atyrau",
+            "slug": "atyrau-kz04d04"
+          },
+          "code": {
+            "id": "KZ04D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ04D05",
+          "name": {
+            "local": "Kzylkoginskiy",
+            "en": "Kzylkoginskiy",
+            "slug": "kzylkoginskiy-kz04d05"
+          },
+          "code": {
+            "id": "KZ04D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ04D06",
+          "name": {
+            "local": "Makatskiy",
+            "en": "Makatskiy",
+            "slug": "makatskiy-kz04d06"
+          },
+          "code": {
+            "id": "KZ04D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ04D07",
+          "name": {
+            "local": "Makhambetskiy",
+            "en": "Makhambetskiy",
+            "slug": "makhambetskiy-kz04d07"
+          },
+          "code": {
+            "id": "KZ04D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ04D08",
+          "name": {
+            "local": "Zhylyoyskiy",
+            "en": "Zhylyoyskiy",
+            "slug": "zhylyoyskiy-kz04d08"
+          },
+          "code": {
+            "id": "KZ04D08",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ05",
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      },
+      "code": {
+        "id": "KZ05",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ05D01",
+          "name": {
+            "local": "Burlinskiy",
+            "en": "Burlinskiy",
+            "slug": "burlinskiy-kz05d01"
+          },
+          "code": {
+            "id": "KZ05D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D02",
+          "name": {
+            "local": "Dzhanybekskiy",
+            "en": "Dzhanybekskiy",
+            "slug": "dzhanybekskiy-kz05d02"
+          },
+          "code": {
+            "id": "KZ05D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D03",
+          "name": {
+            "local": "Taskalinskiy",
+            "en": "Taskalinskiy",
+            "slug": "taskalinskiy-kz05d03"
+          },
+          "code": {
+            "id": "KZ05D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D04",
+          "name": {
+            "local": "Zelenovskiy",
+            "en": "Zelenovskiy",
+            "slug": "zelenovskiy-kz05d04"
+          },
+          "code": {
+            "id": "KZ05D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D05",
+          "name": {
+            "local": "Karatobinskiy",
+            "en": "Karatobinskiy",
+            "slug": "karatobinskiy-kz05d05"
+          },
+          "code": {
+            "id": "KZ05D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D06",
+          "name": {
+            "local": "Syrymskiy",
+            "en": "Syrymskiy",
+            "slug": "syrymskiy-kz05d06"
+          },
+          "code": {
+            "id": "KZ05D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D07",
+          "name": {
+            "local": "Dzhangalinskiy",
+            "en": "Dzhangalinskiy",
+            "slug": "dzhangalinskiy-kz05d07"
+          },
+          "code": {
+            "id": "KZ05D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D08",
+          "name": {
+            "local": "Urdinskiy",
+            "en": "Urdinskiy",
+            "slug": "urdinskiy-kz05d08"
+          },
+          "code": {
+            "id": "KZ05D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D09",
+          "name": {
+            "local": "Kaztalovskiy",
+            "en": "Kaztalovskiy",
+            "slug": "kaztalovskiy-kz05d09"
+          },
+          "code": {
+            "id": "KZ05D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D10",
+          "name": {
+            "local": "Akzhaikskiy",
+            "en": "Akzhaikskiy",
+            "slug": "akzhaikskiy-kz05d10"
+          },
+          "code": {
+            "id": "KZ05D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D11",
+          "name": {
+            "local": "Chingirlauskiy",
+            "en": "Chingirlauskiy",
+            "slug": "chingirlauskiy-kz05d11"
+          },
+          "code": {
+            "id": "KZ05D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ05D12",
+          "name": {
+            "local": "Terektinskiy",
+            "en": "Terektinskiy",
+            "slug": "terektinskiy-kz05d12"
+          },
+          "code": {
+            "id": "KZ05D12",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ06",
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      },
+      "code": {
+        "id": "KZ06",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ06D01",
+          "name": {
+            "local": "Shuchinskiy",
+            "en": "Shuchinskiy",
+            "slug": "shuchinskiy-kz06d01"
+          },
+          "code": {
+            "id": "KZ06D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D02",
+          "name": {
+            "local": "Atbasarskiy",
+            "en": "Atbasarskiy",
+            "slug": "atbasarskiy-kz06d02"
+          },
+          "code": {
+            "id": "KZ06D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D03",
+          "name": {
+            "local": "Bulandynskiy",
+            "en": "Bulandynskiy",
+            "slug": "bulandynskiy-kz06d03"
+          },
+          "code": {
+            "id": "KZ06D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D04",
+          "name": {
+            "local": "Astrakhansiy",
+            "en": "Astrakhansiy",
+            "slug": "astrakhansiy-kz06d04"
+          },
+          "code": {
+            "id": "KZ06D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D05",
+          "name": {
+            "local": "Korgalzhynskiy",
+            "en": "Korgalzhynskiy",
+            "slug": "korgalzhynskiy-kz06d05"
+          },
+          "code": {
+            "id": "KZ06D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D06",
+          "name": {
+            "local": "Sandyktauskiy",
+            "en": "Sandyktauskiy",
+            "slug": "sandyktauskiy-kz06d06"
+          },
+          "code": {
+            "id": "KZ06D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D07",
+          "name": {
+            "local": "Shortandinskiy",
+            "en": "Shortandinskiy",
+            "slug": "shortandinskiy-kz06d07"
+          },
+          "code": {
+            "id": "KZ06D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D08",
+          "name": {
+            "local": "Arshalynskiy",
+            "en": "Arshalynskiy",
+            "slug": "arshalynskiy-kz06d08"
+          },
+          "code": {
+            "id": "KZ06D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D09",
+          "name": {
+            "local": "Zharkainskiy",
+            "en": "Zharkainskiy",
+            "slug": "zharkainskiy-kz06d09"
+          },
+          "code": {
+            "id": "KZ06D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D10",
+          "name": {
+            "local": "Egindykol`skiy",
+            "en": "Egindykol`skiy",
+            "slug": "egindykol-skiy-kz06d10"
+          },
+          "code": {
+            "id": "KZ06D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D11",
+          "name": {
+            "local": "Enbekshil`derskiy",
+            "en": "Enbekshil`derskiy",
+            "slug": "enbekshil-derskiy-kz06d11"
+          },
+          "code": {
+            "id": "KZ06D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D12",
+          "name": {
+            "local": "Akkol`skiy",
+            "en": "Akkol`skiy",
+            "slug": "akkol-skiy-kz06d12"
+          },
+          "code": {
+            "id": "KZ06D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D13",
+          "name": {
+            "local": "Ereymengauskiy",
+            "en": "Ereymengauskiy",
+            "slug": "ereymengauskiy-kz06d13"
+          },
+          "code": {
+            "id": "KZ06D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D14",
+          "name": {
+            "local": "Zhaksynskiy",
+            "en": "Zhaksynskiy",
+            "slug": "zhaksynskiy-kz06d14"
+          },
+          "code": {
+            "id": "KZ06D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ06D15",
+          "name": {
+            "local": "Zerendinskiy",
+            "en": "Zerendinskiy",
+            "slug": "zerendinskiy-kz06d15"
+          },
+          "code": {
+            "id": "KZ06D15",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ07",
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      },
+      "code": {
+        "id": "KZ07",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ07D01",
+          "name": {
+            "local": "Nurinskiy",
+            "en": "Nurinskiy",
+            "slug": "nurinskiy-kz07d01"
+          },
+          "code": {
+            "id": "KZ07D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ07D02",
+          "name": {
+            "local": "Aktogayskiy",
+            "en": "Aktogayskiy",
+            "slug": "aktogayskiy-kz07d02"
+          },
+          "code": {
+            "id": "KZ07D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ07D03",
+          "name": {
+            "local": "Karkaralinskiy",
+            "en": "Karkaralinskiy",
+            "slug": "karkaralinskiy-kz07d03"
+          },
+          "code": {
+            "id": "KZ07D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ07D04",
+          "name": {
+            "local": "Shetskiy",
+            "en": "Shetskiy",
+            "slug": "shetskiy-kz07d04"
+          },
+          "code": {
+            "id": "KZ07D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ07D05",
+          "name": {
+            "local": "Ulytauskiy",
+            "en": "Ulytauskiy",
+            "slug": "ulytauskiy-kz07d05"
+          },
+          "code": {
+            "id": "KZ07D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ07D06",
+          "name": {
+            "local": "Zhanaarkinskiy",
+            "en": "Zhanaarkinskiy",
+            "slug": "zhanaarkinskiy-kz07d06"
+          },
+          "code": {
+            "id": "KZ07D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ07D07",
+          "name": {
+            "local": "Abayskiy",
+            "en": "Abayskiy",
+            "slug": "abayskiy-kz07d07"
+          },
+          "code": {
+            "id": "KZ07D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ07D08",
+          "name": {
+            "local": "Bukhar-Zhyrauskiy",
+            "en": "Bukhar-Zhyrauskiy",
+            "slug": "bukhar-zhyrauskiy-kz07d08"
+          },
+          "code": {
+            "id": "KZ07D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ07D09",
+          "name": {
+            "local": "Osakarovskiy",
+            "en": "Osakarovskiy",
+            "slug": "osakarovskiy-kz07d09"
+          },
+          "code": {
+            "id": "KZ07D09",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ08",
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      },
+      "code": {
+        "id": "KZ08",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ08D01",
+          "name": {
+            "local": "Bulaevskiy",
+            "en": "Bulaevskiy",
+            "slug": "bulaevskiy-kz08d01"
+          },
+          "code": {
+            "id": "KZ08D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D02",
+          "name": {
+            "local": "Kyzylzharskiy",
+            "en": "Kyzylzharskiy",
+            "slug": "kyzylzharskiy-kz08d02"
+          },
+          "code": {
+            "id": "KZ08D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D03",
+          "name": {
+            "local": "Mamlyutskiy",
+            "en": "Mamlyutskiy",
+            "slug": "mamlyutskiy-kz08d03"
+          },
+          "code": {
+            "id": "KZ08D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D04",
+          "name": {
+            "local": "Ualikhanovskiy",
+            "en": "Ualikhanovskiy",
+            "slug": "ualikhanovskiy-kz08d04"
+          },
+          "code": {
+            "id": "KZ08D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D05",
+          "name": {
+            "local": "Esil`skiy",
+            "en": "Esil`skiy",
+            "slug": "esil-skiy-kz08d05"
+          },
+          "code": {
+            "id": "KZ08D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D06",
+          "name": {
+            "local": "Shal Akyna",
+            "en": "Shal Akyna",
+            "slug": "shal-akyna-kz08d06"
+          },
+          "code": {
+            "id": "KZ08D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D07",
+          "name": {
+            "local": "Tselinniy",
+            "en": "Tselinniy",
+            "slug": "tselinniy-kz08d07"
+          },
+          "code": {
+            "id": "KZ08D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D08",
+          "name": {
+            "local": "Taiynshinskiy",
+            "en": "Taiynshinskiy",
+            "slug": "taiynshinskiy-kz08d08"
+          },
+          "code": {
+            "id": "KZ08D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D09",
+          "name": {
+            "local": "Ayyrtauskiy",
+            "en": "Ayyrtauskiy",
+            "slug": "ayyrtauskiy-kz08d09"
+          },
+          "code": {
+            "id": "KZ08D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D10",
+          "name": {
+            "local": "Akzharskiy",
+            "en": "Akzharskiy",
+            "slug": "akzharskiy-kz08d10"
+          },
+          "code": {
+            "id": "KZ08D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D11",
+          "name": {
+            "local": "Akkayin",
+            "en": "Akkayin",
+            "slug": "akkayin-kz08d11"
+          },
+          "code": {
+            "id": "KZ08D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ08D12",
+          "name": {
+            "local": "Timiryazevskiy",
+            "en": "Timiryazevskiy",
+            "slug": "timiryazevskiy-kz08d12"
+          },
+          "code": {
+            "id": "KZ08D12",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ09",
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      },
+      "code": {
+        "id": "KZ09",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ09D01",
+          "name": {
+            "local": "Zhelezinskiy",
+            "en": "Zhelezinskiy",
+            "slug": "zhelezinskiy-kz09d01"
+          },
+          "code": {
+            "id": "KZ09D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ09D02",
+          "name": {
+            "local": "Uspenskiy",
+            "en": "Uspenskiy",
+            "slug": "uspenskiy-kz09d02"
+          },
+          "code": {
+            "id": "KZ09D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ09D03",
+          "name": {
+            "local": "Kachirskiy",
+            "en": "Kachirskiy",
+            "slug": "kachirskiy-kz09d03"
+          },
+          "code": {
+            "id": "KZ09D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ09D04",
+          "name": {
+            "local": "Lebyazhinskiy",
+            "en": "Lebyazhinskiy",
+            "slug": "lebyazhinskiy-kz09d04"
+          },
+          "code": {
+            "id": "KZ09D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ09D05",
+          "name": {
+            "local": "Pavlodarskiy",
+            "en": "Pavlodarskiy",
+            "slug": "pavlodarskiy-kz09d05"
+          },
+          "code": {
+            "id": "KZ09D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ09D06",
+          "name": {
+            "local": "Sherbaktinskiy",
+            "en": "Sherbaktinskiy",
+            "slug": "sherbaktinskiy-kz09d06"
+          },
+          "code": {
+            "id": "KZ09D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ09D07",
+          "name": {
+            "local": "Bayanaul`skiy",
+            "en": "Bayanaul`skiy",
+            "slug": "bayanaul-skiy-kz09d07"
+          },
+          "code": {
+            "id": "KZ09D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ09D08",
+          "name": {
+            "local": "Irtyshskiy",
+            "en": "Irtyshskiy",
+            "slug": "irtyshskiy-kz09d08"
+          },
+          "code": {
+            "id": "KZ09D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ09D09",
+          "name": {
+            "local": "Mayskiy",
+            "en": "Mayskiy",
+            "slug": "mayskiy-kz09d09"
+          },
+          "code": {
+            "id": "KZ09D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ09D10",
+          "name": {
+            "local": "Ekibastuz",
+            "en": "Ekibastuz",
+            "slug": "ekibastuz-kz09d10"
+          },
+          "code": {
+            "id": "KZ09D10",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ10",
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      },
+      "code": {
+        "id": "KZ10",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ10D01",
+          "name": {
+            "local": "Borodulikhinskiy",
+            "en": "Borodulikhinskiy",
+            "slug": "borodulikhinskiy-kz10d01"
+          },
+          "code": {
+            "id": "KZ10D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D02",
+          "name": {
+            "local": "Glubokovskiy",
+            "en": "Glubokovskiy",
+            "slug": "glubokovskiy-kz10d02"
+          },
+          "code": {
+            "id": "KZ10D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D03",
+          "name": {
+            "local": "Zaysanskiy",
+            "en": "Zaysanskiy",
+            "slug": "zaysanskiy-kz10d03"
+          },
+          "code": {
+            "id": "KZ10D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D04",
+          "name": {
+            "local": "Katon-Karagayskiy",
+            "en": "Katon-Karagayskiy",
+            "slug": "katon-karagayskiy-kz10d04"
+          },
+          "code": {
+            "id": "KZ10D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D05",
+          "name": {
+            "local": "Zyryanovsk",
+            "en": "Zyryanovsk",
+            "slug": "zyryanovsk-kz10d05"
+          },
+          "code": {
+            "id": "KZ10D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D06",
+          "name": {
+            "local": "Ayagozskiy",
+            "en": "Ayagozskiy",
+            "slug": "ayagozskiy-kz10d06"
+          },
+          "code": {
+            "id": "KZ10D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D07",
+          "name": {
+            "local": "Kokpektinskiy",
+            "en": "Kokpektinskiy",
+            "slug": "kokpektinskiy-kz10d07"
+          },
+          "code": {
+            "id": "KZ10D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D08",
+          "name": {
+            "local": "Zharminskiy",
+            "en": "Zharminskiy",
+            "slug": "zharminskiy-kz10d08"
+          },
+          "code": {
+            "id": "KZ10D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D09",
+          "name": {
+            "local": "Tarbagatayskiy",
+            "en": "Tarbagatayskiy",
+            "slug": "tarbagatayskiy-kz10d09"
+          },
+          "code": {
+            "id": "KZ10D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D10",
+          "name": {
+            "local": "Kurchumskiy",
+            "en": "Kurchumskiy",
+            "slug": "kurchumskiy-kz10d10"
+          },
+          "code": {
+            "id": "KZ10D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D11",
+          "name": {
+            "local": "Ulanskiy",
+            "en": "Ulanskiy",
+            "slug": "ulanskiy-kz10d11"
+          },
+          "code": {
+            "id": "KZ10D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D12",
+          "name": {
+            "local": "Shemonaikhinskiy",
+            "en": "Shemonaikhinskiy",
+            "slug": "shemonaikhinskiy-kz10d12"
+          },
+          "code": {
+            "id": "KZ10D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D13",
+          "name": {
+            "local": "Beskaragayskiy",
+            "en": "Beskaragayskiy",
+            "slug": "beskaragayskiy-kz10d13"
+          },
+          "code": {
+            "id": "KZ10D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D14",
+          "name": {
+            "local": "Semey",
+            "en": "Semey",
+            "slug": "semey-kz10d14"
+          },
+          "code": {
+            "id": "KZ10D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D15",
+          "name": {
+            "local": "Leninogorsk",
+            "en": "Leninogorsk",
+            "slug": "leninogorsk-kz10d15"
+          },
+          "code": {
+            "id": "KZ10D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ10D16",
+          "name": {
+            "local": "Urdzharskiy",
+            "en": "Urdzharskiy",
+            "slug": "urdzharskiy-kz10d16"
+          },
+          "code": {
+            "id": "KZ10D16",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ11",
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      },
+      "code": {
+        "id": "KZ11",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ11D01",
+          "name": {
+            "local": "Raiymbekskiy",
+            "en": "Raiymbekskiy",
+            "slug": "raiymbekskiy-kz11d01"
+          },
+          "code": {
+            "id": "KZ11D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D02",
+          "name": {
+            "local": "Talgarskiy",
+            "en": "Talgarskiy",
+            "slug": "talgarskiy-kz11d02"
+          },
+          "code": {
+            "id": "KZ11D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D03",
+          "name": {
+            "local": "Balkhashskiy",
+            "en": "Balkhashskiy",
+            "slug": "balkhashskiy-kz11d03"
+          },
+          "code": {
+            "id": "KZ11D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D04",
+          "name": {
+            "local": "Koksuskiy",
+            "en": "Koksuskiy",
+            "slug": "koksuskiy-kz11d04"
+          },
+          "code": {
+            "id": "KZ11D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D05",
+          "name": {
+            "local": "Aksuskiy",
+            "en": "Aksuskiy",
+            "slug": "aksuskiy-kz11d05"
+          },
+          "code": {
+            "id": "KZ11D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D06",
+          "name": {
+            "local": "Panfilovskiy",
+            "en": "Panfilovskiy",
+            "slug": "panfilovskiy-kz11d06"
+          },
+          "code": {
+            "id": "KZ11D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D07",
+          "name": {
+            "local": "Alakolskiy",
+            "en": "Alakolskiy",
+            "slug": "alakolskiy-kz11d07"
+          },
+          "code": {
+            "id": "KZ11D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D08",
+          "name": {
+            "local": "Karatal`skiy",
+            "en": "Karatal`skiy",
+            "slug": "karatal-skiy-kz11d08"
+          },
+          "code": {
+            "id": "KZ11D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D09",
+          "name": {
+            "local": "Sarkandskiy",
+            "en": "Sarkandskiy",
+            "slug": "sarkandskiy-kz11d09"
+          },
+          "code": {
+            "id": "KZ11D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D10",
+          "name": {
+            "local": "Karasayskiy",
+            "en": "Karasayskiy",
+            "slug": "karasayskiy-kz11d10"
+          },
+          "code": {
+            "id": "KZ11D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D11",
+          "name": {
+            "local": "Kerbulakskiy",
+            "en": "Kerbulakskiy",
+            "slug": "kerbulakskiy-kz11d11"
+          },
+          "code": {
+            "id": "KZ11D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D12",
+          "name": {
+            "local": "Uygurskiy",
+            "en": "Uygurskiy",
+            "slug": "uygurskiy-kz11d12"
+          },
+          "code": {
+            "id": "KZ11D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D13",
+          "name": {
+            "local": "Enbekshikazakhskiy",
+            "en": "Enbekshikazakhskiy",
+            "slug": "enbekshikazakhskiy-kz11d13"
+          },
+          "code": {
+            "id": "KZ11D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D14",
+          "name": {
+            "local": "Iliyskiy",
+            "en": "Iliyskiy",
+            "slug": "iliyskiy-kz11d14"
+          },
+          "code": {
+            "id": "KZ11D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D15",
+          "name": {
+            "local": "Zhambylskiy",
+            "en": "Zhambylskiy",
+            "slug": "zhambylskiy-kz11d15"
+          },
+          "code": {
+            "id": "KZ11D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ11D16",
+          "name": {
+            "local": "Taldyqorghan",
+            "en": "Taldyqorghan",
+            "slug": "taldyqorghan-kz11d16"
+          },
+          "code": {
+            "id": "KZ11D16",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ12",
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      },
+      "code": {
+        "id": "KZ12",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ12D01",
+          "name": {
+            "local": "Karakiyanskiy",
+            "en": "Karakiyanskiy",
+            "slug": "karakiyanskiy-kz12d01"
+          },
+          "code": {
+            "id": "KZ12D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ12D02",
+          "name": {
+            "local": "Tupkaraganskiy",
+            "en": "Tupkaraganskiy",
+            "slug": "tupkaraganskiy-kz12d02"
+          },
+          "code": {
+            "id": "KZ12D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ12D03",
+          "name": {
+            "local": "Aqtau",
+            "en": "Aqtau",
+            "slug": "aqtau-kz12d03"
+          },
+          "code": {
+            "id": "KZ12D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ12D04",
+          "name": {
+            "local": "Beyneuskiy",
+            "en": "Beyneuskiy",
+            "slug": "beyneuskiy-kz12d04"
+          },
+          "code": {
+            "id": "KZ12D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ12D05",
+          "name": {
+            "local": "Manghystauskiy",
+            "en": "Manghystauskiy",
+            "slug": "manghystauskiy-kz12d05"
+          },
+          "code": {
+            "id": "KZ12D05",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ13",
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      },
+      "code": {
+        "id": "KZ13",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ13D01",
+          "name": {
+            "local": "Maktaaral`skiy",
+            "en": "Maktaaral`skiy",
+            "slug": "maktaaral-skiy-kz13d01"
+          },
+          "code": {
+            "id": "KZ13D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D02",
+          "name": {
+            "local": "Chardarinskiy",
+            "en": "Chardarinskiy",
+            "slug": "chardarinskiy-kz13d02"
+          },
+          "code": {
+            "id": "KZ13D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D03",
+          "name": {
+            "local": "Tolebiyskiy",
+            "en": "Tolebiyskiy",
+            "slug": "tolebiyskiy-kz13d03"
+          },
+          "code": {
+            "id": "KZ13D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D04",
+          "name": {
+            "local": "Arysskiy",
+            "en": "Arysskiy",
+            "slug": "arysskiy-kz13d04"
+          },
+          "code": {
+            "id": "KZ13D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D05",
+          "name": {
+            "local": "Baydibekskiy",
+            "en": "Baydibekskiy",
+            "slug": "baydibekskiy-kz13d05"
+          },
+          "code": {
+            "id": "KZ13D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D06",
+          "name": {
+            "local": "Kazygurtskiy",
+            "en": "Kazygurtskiy",
+            "slug": "kazygurtskiy-kz13d06"
+          },
+          "code": {
+            "id": "KZ13D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D07",
+          "name": {
+            "local": "Ordabasynskiy",
+            "en": "Ordabasynskiy",
+            "slug": "ordabasynskiy-kz13d07"
+          },
+          "code": {
+            "id": "KZ13D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D08",
+          "name": {
+            "local": "Otrarskiy",
+            "en": "Otrarskiy",
+            "slug": "otrarskiy-kz13d08"
+          },
+          "code": {
+            "id": "KZ13D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D09",
+          "name": {
+            "local": "Sayramskiy",
+            "en": "Sayramskiy",
+            "slug": "sayramskiy-kz13d09"
+          },
+          "code": {
+            "id": "KZ13D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D10",
+          "name": {
+            "local": "Suzakskiy",
+            "en": "Suzakskiy",
+            "slug": "suzakskiy-kz13d10"
+          },
+          "code": {
+            "id": "KZ13D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D11",
+          "name": {
+            "local": "Tyul`kubaskiy",
+            "en": "Tyul`kubaskiy",
+            "slug": "tyul-kubaskiy-kz13d11"
+          },
+          "code": {
+            "id": "KZ13D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D12",
+          "name": {
+            "local": "Shymkent",
+            "en": "Shymkent",
+            "slug": "shymkent-kz13d12"
+          },
+          "code": {
+            "id": "KZ13D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D13",
+          "name": {
+            "local": "Turkestan",
+            "en": "Turkestan",
+            "slug": "turkestan-kz13d13"
+          },
+          "code": {
+            "id": "KZ13D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ13D14",
+          "name": {
+            "local": "Saryagashskiy",
+            "en": "Saryagashskiy",
+            "slug": "saryagashskiy-kz13d14"
+          },
+          "code": {
+            "id": "KZ13D14",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ14",
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      },
+      "code": {
+        "id": "KZ14",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ14D01",
+          "name": {
+            "local": "Kordayskiy",
+            "en": "Kordayskiy",
+            "slug": "kordayskiy-kz14d01"
+          },
+          "code": {
+            "id": "KZ14D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D02",
+          "name": {
+            "local": "Merkenskiy",
+            "en": "Merkenskiy",
+            "slug": "merkenskiy-kz14d02"
+          },
+          "code": {
+            "id": "KZ14D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D03",
+          "name": {
+            "local": "Zhambyl",
+            "en": "Zhambyl",
+            "slug": "zhambyl-kz14d03"
+          },
+          "code": {
+            "id": "KZ14D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D04",
+          "name": {
+            "local": "Zhualy",
+            "en": "Zhualy",
+            "slug": "zhualy-kz14d04"
+          },
+          "code": {
+            "id": "KZ14D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D05",
+          "name": {
+            "local": "Moyynkumskiy",
+            "en": "Moyynkumskiy",
+            "slug": "moyynkumskiy-kz14d05"
+          },
+          "code": {
+            "id": "KZ14D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D06",
+          "name": {
+            "local": "Bayzakskiy",
+            "en": "Bayzakskiy",
+            "slug": "bayzakskiy-kz14d06"
+          },
+          "code": {
+            "id": "KZ14D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D07",
+          "name": {
+            "local": "Lugovskoy",
+            "en": "Lugovskoy",
+            "slug": "lugovskoy-kz14d07"
+          },
+          "code": {
+            "id": "KZ14D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D08",
+          "name": {
+            "local": "Sarysuskiy",
+            "en": "Sarysuskiy",
+            "slug": "sarysuskiy-kz14d08"
+          },
+          "code": {
+            "id": "KZ14D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D09",
+          "name": {
+            "local": "Talasskiy",
+            "en": "Talasskiy",
+            "slug": "talasskiy-kz14d09"
+          },
+          "code": {
+            "id": "KZ14D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D10",
+          "name": {
+            "local": "Shuskiy",
+            "en": "Shuskiy",
+            "slug": "shuskiy-kz14d10"
+          },
+          "code": {
+            "id": "KZ14D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KZ14D11",
+          "name": {
+            "local": "Zhualynskiy",
+            "en": "Zhualynskiy",
+            "slug": "zhualynskiy-kz14d11"
+          },
+          "code": {
+            "id": "KZ14D11",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ15",
+      "name": {
+        "local": "Алматы",
+        "en": "Almaty City",
+        "slug": "almaty-city-kz15"
+      },
+      "code": {
+        "id": "KZ15",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ15D01",
+          "name": {
+            "local": "Almaty",
+            "en": "Almaty",
+            "slug": "almaty-kz15d01"
+          },
+          "code": {
+            "id": "KZ15D01",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KZ16",
+      "name": {
+        "local": "Астана",
+        "en": "Astana",
+        "slug": "astana-kz16"
+      },
+      "code": {
+        "id": "KZ16",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KZ16D01",
+          "name": {
+            "local": "Tselinogradskiy",
+            "en": "Tselinogradskiy",
+            "slug": "tselinogradskiy-kz16d01"
+          },
+          "code": {
+            "id": "KZ16D01",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

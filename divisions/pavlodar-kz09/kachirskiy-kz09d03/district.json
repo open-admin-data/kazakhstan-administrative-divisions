@@ -1,0 +1,45 @@
+{
+  "id": "KZ09D03",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kachirskiy",
+    "en": "Kachirskiy",
+    "slug": "kachirskiy-kz09d03"
+  },
+  "code": {
+    "id": "KZ09D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ09",
+    "level": 1,
+    "name": {
+      "local": "Павлодар",
+      "en": "Pavlodar",
+      "slug": "pavlodar-kz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.211",
+    "lon": "76.487"
+  },
+  "metadata": {},
+  "source": {}
+}

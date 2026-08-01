@@ -1,0 +1,45 @@
+{
+  "id": "KZ14D08",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sarysuskiy",
+    "en": "Sarysuskiy",
+    "slug": "sarysuskiy-kz14d08"
+  },
+  "code": {
+    "id": "KZ14D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ14",
+    "level": 1,
+    "name": {
+      "local": "Жамбыл",
+      "en": "Zhambyl",
+      "slug": "zhambyl-kz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "45.235",
+    "lon": "70.302"
+  },
+  "metadata": {},
+  "source": {}
+}

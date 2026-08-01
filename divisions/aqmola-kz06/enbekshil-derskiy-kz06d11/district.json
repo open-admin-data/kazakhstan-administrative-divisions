@@ -1,0 +1,45 @@
+{
+  "id": "KZ06D11",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Enbekshil`derskiy",
+    "en": "Enbekshil`derskiy",
+    "slug": "enbekshil-derskiy-kz06d11"
+  },
+  "code": {
+    "id": "KZ06D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ06",
+    "level": 1,
+    "name": {
+      "local": "Ақмола",
+      "en": "Aqmola",
+      "slug": "aqmola-kz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.931",
+    "lon": "71.14"
+  },
+  "metadata": {},
+  "source": {}
+}

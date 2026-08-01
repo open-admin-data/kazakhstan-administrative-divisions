@@ -1,0 +1,45 @@
+{
+  "id": "KZ03D04",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Syrdariya",
+    "en": "Syrdariya",
+    "slug": "syrdariya-kz03d04"
+  },
+  "code": {
+    "id": "KZ03D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ03",
+    "level": 1,
+    "name": {
+      "local": "Қызылорда",
+      "en": "Qyzylorda",
+      "slug": "qyzylorda-kz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "45.66",
+    "lon": "65.884"
+  },
+  "metadata": {},
+  "source": {}
+}

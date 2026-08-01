@@ -1,0 +1,45 @@
+{
+  "id": "KZ02D06",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Arkalyk",
+    "en": "Arkalyk",
+    "slug": "arkalyk-kz02d06"
+  },
+  "code": {
+    "id": "KZ02D06",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ02",
+    "level": 1,
+    "name": {
+      "local": "Қостанай",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.079",
+    "lon": "66.815"
+  },
+  "metadata": {},
+  "source": {}
+}

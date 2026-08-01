@@ -1,0 +1,45 @@
+{
+  "id": "KZ05D12",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Terektinskiy",
+    "en": "Terektinskiy",
+    "slug": "terektinskiy-kz05d12"
+  },
+  "code": {
+    "id": "KZ05D12",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ05",
+    "level": 1,
+    "name": {
+      "local": "Батыс Қазақстан",
+      "en": "West Kazakhstan",
+      "slug": "west-kazakhstan-kz05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.716",
+    "lon": "51.538"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KZ13D02",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chardarinskiy",
+    "en": "Chardarinskiy",
+    "slug": "chardarinskiy-kz13d02"
+  },
+  "code": {
+    "id": "KZ13D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ13",
+    "level": 1,
+    "name": {
+      "local": "Оңтүстік Қазақстан",
+      "en": "South Kazakhstan",
+      "slug": "south-kazakhstan-kz13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.588",
+    "lon": "67.423"
+  },
+  "metadata": {},
+  "source": {}
+}

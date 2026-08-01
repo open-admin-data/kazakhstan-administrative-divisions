@@ -1,0 +1,45 @@
+{
+  "id": "KZ07D07",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Abayskiy",
+    "en": "Abayskiy",
+    "slug": "abayskiy-kz07d07"
+  },
+  "code": {
+    "id": "KZ07D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ07",
+    "level": 1,
+    "name": {
+      "local": "Қарағанды",
+      "en": "Qaraghandy",
+      "slug": "qaraghandy-kz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.549",
+    "lon": "72.234"
+  },
+  "metadata": {},
+  "source": {}
+}

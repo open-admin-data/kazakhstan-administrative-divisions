@@ -1,0 +1,45 @@
+{
+  "id": "KZ02D08",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dzhangil`dinskiy",
+    "en": "Dzhangil`dinskiy",
+    "slug": "dzhangil-dinskiy-kz02d08"
+  },
+  "code": {
+    "id": "KZ02D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ02",
+    "level": 1,
+    "name": {
+      "local": "Қостанай",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.62",
+    "lon": "63.729"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KZ08D10",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Akzharskiy",
+    "en": "Akzharskiy",
+    "slug": "akzharskiy-kz08d10"
+  },
+  "code": {
+    "id": "KZ08D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ08",
+    "level": 1,
+    "name": {
+      "local": "Солтүстік Қазақстан",
+      "en": "North Kazakhstan",
+      "slug": "north-kazakhstan-kz08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.68",
+    "lon": "71.772"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KZ06D10",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Egindykol`skiy",
+    "en": "Egindykol`skiy",
+    "slug": "egindykol-skiy-kz06d10"
+  },
+  "code": {
+    "id": "KZ06D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ06",
+    "level": 1,
+    "name": {
+      "local": "Ақмола",
+      "en": "Aqmola",
+      "slug": "aqmola-kz06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.871",
+    "lon": "69.077"
+  },
+  "metadata": {},
+  "source": {}
+}

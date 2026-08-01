@@ -1,0 +1,45 @@
+{
+  "id": "KZ10D01",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Borodulikhinskiy",
+    "en": "Borodulikhinskiy",
+    "slug": "borodulikhinskiy-kz10d01"
+  },
+  "code": {
+    "id": "KZ10D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ10",
+    "level": 1,
+    "name": {
+      "local": "Шығыс Қазақстан",
+      "en": "East Kazakhstan",
+      "slug": "east-kazakhstan-kz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.649",
+    "lon": "81.175"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KZ03D05",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zhalagashskiy",
+    "en": "Zhalagashskiy",
+    "slug": "zhalagashskiy-kz03d05"
+  },
+  "code": {
+    "id": "KZ03D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ03",
+    "level": 1,
+    "name": {
+      "local": "Қызылорда",
+      "en": "Qyzylorda",
+      "slug": "qyzylorda-kz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "44.293",
+    "lon": "64.138"
+  },
+  "metadata": {},
+  "source": {}
+}

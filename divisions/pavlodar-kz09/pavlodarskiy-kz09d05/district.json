@@ -1,0 +1,45 @@
+{
+  "id": "KZ09D05",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pavlodarskiy",
+    "en": "Pavlodarskiy",
+    "slug": "pavlodarskiy-kz09d05"
+  },
+  "code": {
+    "id": "KZ09D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ09",
+    "level": 1,
+    "name": {
+      "local": "Павлодар",
+      "en": "Pavlodar",
+      "slug": "pavlodar-kz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.328",
+    "lon": "77.308"
+  },
+  "metadata": {},
+  "source": {}
+}

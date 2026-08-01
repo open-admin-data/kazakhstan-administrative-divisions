@@ -1,0 +1,45 @@
+{
+  "id": "KZ10D05",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zyryanovsk",
+    "en": "Zyryanovsk",
+    "slug": "zyryanovsk-kz10d05"
+  },
+  "code": {
+    "id": "KZ10D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ10",
+    "level": 1,
+    "name": {
+      "local": "Шығыс Қазақстан",
+      "en": "East Kazakhstan",
+      "slug": "east-kazakhstan-kz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.589",
+    "lon": "85.258"
+  },
+  "metadata": {},
+  "source": {}
+}

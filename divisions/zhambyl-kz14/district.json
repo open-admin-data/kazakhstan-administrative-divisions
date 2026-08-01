@@ -1,0 +1,497 @@
+[
+  {
+    "id": "KZ14D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bayzakskiy",
+      "en": "Bayzakskiy",
+      "slug": "bayzakskiy-kz14d06"
+    },
+    "code": {
+      "id": "KZ14D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.184",
+      "lon": "71.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kordayskiy",
+      "en": "Kordayskiy",
+      "slug": "kordayskiy-kz14d01"
+    },
+    "code": {
+      "id": "KZ14D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.326",
+      "lon": "74.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lugovskoy",
+      "en": "Lugovskoy",
+      "slug": "lugovskoy-kz14d07"
+    },
+    "code": {
+      "id": "KZ14D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.145",
+      "lon": "72.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Merkenskiy",
+      "en": "Merkenskiy",
+      "slug": "merkenskiy-kz14d02"
+    },
+    "code": {
+      "id": "KZ14D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.828",
+      "lon": "73.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moyynkumskiy",
+      "en": "Moyynkumskiy",
+      "slug": "moyynkumskiy-kz14d05"
+    },
+    "code": {
+      "id": "KZ14D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.931",
+      "lon": "72.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarysuskiy",
+      "en": "Sarysuskiy",
+      "slug": "sarysuskiy-kz14d08"
+    },
+    "code": {
+      "id": "KZ14D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.235",
+      "lon": "70.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shuskiy",
+      "en": "Shuskiy",
+      "slug": "shuskiy-kz14d10"
+    },
+    "code": {
+      "id": "KZ14D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.571",
+      "lon": "73.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talasskiy",
+      "en": "Talasskiy",
+      "slug": "talasskiy-kz14d09"
+    },
+    "code": {
+      "id": "KZ14D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.811",
+      "lon": "70.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhambyl",
+      "en": "Zhambyl",
+      "slug": "zhambyl-kz14d03"
+    },
+    "code": {
+      "id": "KZ14D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.584",
+      "lon": "71.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhualy",
+      "en": "Zhualy",
+      "slug": "zhualy-kz14d04"
+    },
+    "code": {
+      "id": "KZ14D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.886",
+      "lon": "71.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhualynskiy",
+      "en": "Zhualynskiy",
+      "slug": "zhualynskiy-kz14d11"
+    },
+    "code": {
+      "id": "KZ14D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.771",
+      "lon": "70.617"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

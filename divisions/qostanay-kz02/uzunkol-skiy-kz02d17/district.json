@@ -1,0 +1,45 @@
+{
+  "id": "KZ02D17",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Uzunkol`skiy",
+    "en": "Uzunkol`skiy",
+    "slug": "uzunkol-skiy-kz02d17"
+  },
+  "code": {
+    "id": "KZ02D17",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ02",
+    "level": 1,
+    "name": {
+      "local": "Қостанай",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.218",
+    "lon": "65.568"
+  },
+  "metadata": {},
+  "source": {}
+}

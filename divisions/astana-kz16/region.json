@@ -1,0 +1,33 @@
+{
+  "id": "KZ16",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Астана",
+    "en": "Astana",
+    "slug": "astana-kz16"
+  },
+  "code": {
+    "id": "KZ16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.139",
+    "lon": "71.412"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/astana-kz16/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

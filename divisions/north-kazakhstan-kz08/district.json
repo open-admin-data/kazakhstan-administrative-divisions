@@ -1,0 +1,542 @@
+[
+  {
+    "id": "KZ08D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akkayin",
+      "en": "Akkayin",
+      "slug": "akkayin-kz08d11"
+    },
+    "code": {
+      "id": "KZ08D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.4",
+      "lon": "69.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akzharskiy",
+      "en": "Akzharskiy",
+      "slug": "akzharskiy-kz08d10"
+    },
+    "code": {
+      "id": "KZ08D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.68",
+      "lon": "71.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayyrtauskiy",
+      "en": "Ayyrtauskiy",
+      "slug": "ayyrtauskiy-kz08d09"
+    },
+    "code": {
+      "id": "KZ08D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.143",
+      "lon": "68.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulaevskiy",
+      "en": "Bulaevskiy",
+      "slug": "bulaevskiy-kz08d01"
+    },
+    "code": {
+      "id": "KZ08D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.695",
+      "lon": "70.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Esil`skiy",
+      "en": "Esil`skiy",
+      "slug": "esil-skiy-kz08d05"
+    },
+    "code": {
+      "id": "KZ08D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.112",
+      "lon": "68.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kyzylzharskiy",
+      "en": "Kyzylzharskiy",
+      "slug": "kyzylzharskiy-kz08d02"
+    },
+    "code": {
+      "id": "KZ08D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.999",
+      "lon": "69.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mamlyutskiy",
+      "en": "Mamlyutskiy",
+      "slug": "mamlyutskiy-kz08d03"
+    },
+    "code": {
+      "id": "KZ08D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.698",
+      "lon": "68.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shal Akyna",
+      "en": "Shal Akyna",
+      "slug": "shal-akyna-kz08d06"
+    },
+    "code": {
+      "id": "KZ08D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.794",
+      "lon": "67.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taiynshinskiy",
+      "en": "Taiynshinskiy",
+      "slug": "taiynshinskiy-kz08d08"
+    },
+    "code": {
+      "id": "KZ08D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.812",
+      "lon": "70.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Timiryazevskiy",
+      "en": "Timiryazevskiy",
+      "slug": "timiryazevskiy-kz08d12"
+    },
+    "code": {
+      "id": "KZ08D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.673",
+      "lon": "66.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tselinniy",
+      "en": "Tselinniy",
+      "slug": "tselinniy-kz08d07"
+    },
+    "code": {
+      "id": "KZ08D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.804",
+      "lon": "66.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ualikhanovskiy",
+      "en": "Ualikhanovskiy",
+      "slug": "ualikhanovskiy-kz08d04"
+    },
+    "code": {
+      "id": "KZ08D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.481",
+      "lon": "72.789"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "KZ07D01",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nurinskiy",
+    "en": "Nurinskiy",
+    "slug": "nurinskiy-kz07d01"
+  },
+  "code": {
+    "id": "KZ07D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ07",
+    "level": 1,
+    "name": {
+      "local": "Қарағанды",
+      "en": "Qaraghandy",
+      "slug": "qaraghandy-kz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.481",
+    "lon": "69.46"
+  },
+  "metadata": {},
+  "source": {}
+}

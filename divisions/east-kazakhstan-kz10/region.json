@@ -1,0 +1,33 @@
+{
+  "id": "KZ10",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Шығыс Қазақстан",
+    "en": "East Kazakhstan",
+    "slug": "east-kazakhstan-kz10"
+  },
+  "code": {
+    "id": "KZ10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.672",
+    "lon": "81.455"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/east-kazakhstan-kz10/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

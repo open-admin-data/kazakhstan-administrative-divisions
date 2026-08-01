@@ -1,0 +1,45 @@
+{
+  "id": "KZ04D01",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kurmangazinskiy",
+    "en": "Kurmangazinskiy",
+    "slug": "kurmangazinskiy-kz04d01"
+  },
+  "code": {
+    "id": "KZ04D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ04",
+    "level": 1,
+    "name": {
+      "local": "Атырау",
+      "en": "Atyrau",
+      "slug": "atyrau-kz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.472",
+    "lon": "49.08"
+  },
+  "metadata": {},
+  "source": {}
+}

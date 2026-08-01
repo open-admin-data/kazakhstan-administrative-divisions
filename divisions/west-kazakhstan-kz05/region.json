@@ -1,0 +1,33 @@
+{
+  "id": "KZ05",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Батыс Қазақстан",
+    "en": "West Kazakhstan",
+    "slug": "west-kazakhstan-kz05"
+  },
+  "code": {
+    "id": "KZ05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.799",
+    "lon": "50.276"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/west-kazakhstan-kz05/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

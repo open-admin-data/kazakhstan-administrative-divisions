@@ -1,0 +1,45 @@
+{
+  "id": "KZ09D10",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ekibastuz",
+    "en": "Ekibastuz",
+    "slug": "ekibastuz-kz09d10"
+  },
+  "code": {
+    "id": "KZ09D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ09",
+    "level": 1,
+    "name": {
+      "local": "Павлодар",
+      "en": "Pavlodar",
+      "slug": "pavlodar-kz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.844",
+    "lon": "74.896"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KZ04D02",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Inderskiy",
+    "en": "Inderskiy",
+    "slug": "inderskiy-kz04d02"
+  },
+  "code": {
+    "id": "KZ04D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ04",
+    "level": 1,
+    "name": {
+      "local": "Атырау",
+      "en": "Atyrau",
+      "slug": "atyrau-kz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.298",
+    "lon": "51.273"
+  },
+  "metadata": {},
+  "source": {}
+}

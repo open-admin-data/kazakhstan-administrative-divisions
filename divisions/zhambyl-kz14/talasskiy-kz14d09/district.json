@@ -1,0 +1,45 @@
+{
+  "id": "KZ14D09",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Talasskiy",
+    "en": "Talasskiy",
+    "slug": "talasskiy-kz14d09"
+  },
+  "code": {
+    "id": "KZ14D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ14",
+    "level": 1,
+    "name": {
+      "local": "Жамбыл",
+      "en": "Zhambyl",
+      "slug": "zhambyl-kz14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.811",
+    "lon": "70.92"
+  },
+  "metadata": {},
+  "source": {}
+}

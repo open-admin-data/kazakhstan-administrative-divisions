@@ -1,0 +1,89 @@
+# Almaty — Kazakhstan Administrative Divisions
+
+> 16 districts
+> Code: KZ11
+> Coordinates: 44.88, 78.232
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Aksuskiy
+
+Code: KZ11D05, Coordinates: 45.447, 79.157
+
+
+### Alakolskiy
+
+Code: KZ11D07, Coordinates: 46.005, 80.977
+
+
+### Balkhashskiy
+
+Code: KZ11D03, Coordinates: 45.742, 75.247
+
+
+### Enbekshikazakhskiy
+
+Code: KZ11D13, Coordinates: 43.498, 78.242
+
+
+### Iliyskiy
+
+Code: KZ11D14, Coordinates: 44.059, 76.565
+
+
+### Karasayskiy
+
+Code: KZ11D10, Coordinates: 43.147, 76.628
+
+
+### Karatal`skiy
+
+Code: KZ11D08, Coordinates: 45.811, 77.09
+
+
+### Kerbulakskiy
+
+Code: KZ11D11, Coordinates: 44.214, 78.441
+
+
+### Koksuskiy
+
+Code: KZ11D04, Coordinates: 44.766, 77.629
+
+
+### Panfilovskiy
+
+Code: KZ11D06, Coordinates: 44.308, 79.837
+
+
+### Raiymbekskiy
+
+Code: KZ11D01, Coordinates: 42.828, 79.634
+
+
+### Sarkandskiy
+
+Code: KZ11D09, Coordinates: 46.472, 79.103
+
+
+### Taldyqorghan
+
+Code: KZ11D16, Coordinates: 44.958, 78.645
+
+
+### Talgarskiy
+
+Code: KZ11D02, Coordinates: 43.349, 77.151
+
+
+### Uygurskiy
+
+Code: KZ11D12, Coordinates: 43.577, 79.548
+
+
+### Zhambylskiy
+
+Code: KZ11D15, Coordinates: 43.85, 75.657
+
+

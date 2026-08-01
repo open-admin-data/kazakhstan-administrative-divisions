@@ -1,0 +1,45 @@
+{
+  "id": "KZ04D06",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Makatskiy",
+    "en": "Makatskiy",
+    "slug": "makatskiy-kz04d06"
+  },
+  "code": {
+    "id": "KZ04D06",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ04",
+    "level": 1,
+    "name": {
+      "local": "Атырау",
+      "en": "Atyrau",
+      "slug": "atyrau-kz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.399",
+    "lon": "53.194"
+  },
+  "metadata": {},
+  "source": {}
+}

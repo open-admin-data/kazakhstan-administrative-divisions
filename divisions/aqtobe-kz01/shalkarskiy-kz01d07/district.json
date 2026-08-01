@@ -1,0 +1,45 @@
+{
+  "id": "KZ01D07",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Shalkarskiy",
+    "en": "Shalkarskiy",
+    "slug": "shalkarskiy-kz01d07"
+  },
+  "code": {
+    "id": "KZ01D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ01",
+    "level": 1,
+    "name": {
+      "local": "Ақтөбе",
+      "en": "Aqtöbe",
+      "slug": "aqtobe-kz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.406",
+    "lon": "59.156"
+  },
+  "metadata": {},
+  "source": {}
+}

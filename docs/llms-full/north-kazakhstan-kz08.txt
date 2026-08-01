@@ -1,0 +1,69 @@
+# North Kazakhstan — Kazakhstan Administrative Divisions
+
+> 12 districts
+> Code: KZ08
+> Coordinates: 54.45, 69.223
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Akkayin
+
+Code: KZ08D11, Coordinates: 54.4, 69.68
+
+
+### Akzharskiy
+
+Code: KZ08D10, Coordinates: 53.68, 71.772
+
+
+### Ayyrtauskiy
+
+Code: KZ08D09, Coordinates: 53.143, 68.102
+
+
+### Bulaevskiy
+
+Code: KZ08D01, Coordinates: 54.695, 70.584
+
+
+### Esil`skiy
+
+Code: KZ08D05, Coordinates: 54.112, 68.308
+
+
+### Kyzylzharskiy
+
+Code: KZ08D02, Coordinates: 54.999, 69.262
+
+
+### Mamlyutskiy
+
+Code: KZ08D03, Coordinates: 54.698, 68.204
+
+
+### Shal Akyna
+
+Code: KZ08D06, Coordinates: 53.794, 67.478
+
+
+### Taiynshinskiy
+
+Code: KZ08D08, Coordinates: 53.812, 70.32
+
+
+### Timiryazevskiy
+
+Code: KZ08D12, Coordinates: 53.673, 66.504
+
+
+### Tselinniy
+
+Code: KZ08D07, Coordinates: 52.804, 66.792
+
+
+### Ualikhanovskiy
+
+Code: KZ08D04, Coordinates: 53.481, 72.789
+
+

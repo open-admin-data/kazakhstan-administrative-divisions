@@ -1,0 +1,362 @@
+[
+  {
+    "id": "KZ03D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aral`skiy",
+      "en": "Aral`skiy",
+      "slug": "aral-skiy-kz03d02"
+    },
+    "code": {
+      "id": "KZ03D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.966",
+      "lon": "60.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karmakchinskiy",
+      "en": "Karmakchinskiy",
+      "slug": "karmakchinskiy-kz03d08"
+    },
+    "code": {
+      "id": "KZ03D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.538",
+      "lon": "63.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kazalinskiy",
+      "en": "Kazalinskiy",
+      "slug": "kazalinskiy-kz03d01"
+    },
+    "code": {
+      "id": "KZ03D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.204",
+      "lon": "62.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Qyzylorda",
+      "en": "Qyzylorda",
+      "slug": "qyzylorda-kz03d07"
+    },
+    "code": {
+      "id": "KZ03D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.881",
+      "lon": "65.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shieli",
+      "en": "Shieli",
+      "slug": "shieli-kz03d06"
+    },
+    "code": {
+      "id": "KZ03D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.465",
+      "lon": "66.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Syrdariya",
+      "en": "Syrdariya",
+      "slug": "syrdariya-kz03d04"
+    },
+    "code": {
+      "id": "KZ03D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.66",
+      "lon": "65.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhalagashskiy",
+      "en": "Zhalagashskiy",
+      "slug": "zhalagashskiy-kz03d05"
+    },
+    "code": {
+      "id": "KZ03D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.293",
+      "lon": "64.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhanakorganskiy",
+      "en": "Zhanakorganskiy",
+      "slug": "zhanakorganskiy-kz03d03"
+    },
+    "code": {
+      "id": "KZ03D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.503",
+      "lon": "67.202"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

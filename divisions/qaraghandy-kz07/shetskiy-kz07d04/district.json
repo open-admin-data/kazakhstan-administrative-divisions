@@ -1,0 +1,45 @@
+{
+  "id": "KZ07D04",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Shetskiy",
+    "en": "Shetskiy",
+    "slug": "shetskiy-kz07d04"
+  },
+  "code": {
+    "id": "KZ07D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ07",
+    "level": 1,
+    "name": {
+      "local": "Қарағанды",
+      "en": "Qaraghandy",
+      "slug": "qaraghandy-kz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.236",
+    "lon": "73.008"
+  },
+  "metadata": {},
+  "source": {}
+}

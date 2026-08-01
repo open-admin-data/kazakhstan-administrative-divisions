@@ -1,0 +1,45 @@
+{
+  "id": "KZ02D15",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Denisovskiy",
+    "en": "Denisovskiy",
+    "slug": "denisovskiy-kz02d15"
+  },
+  "code": {
+    "id": "KZ02D15",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ02",
+    "level": 1,
+    "name": {
+      "local": "Қостанай",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.608",
+    "lon": "61.706"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KZ02D16",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Qostanay",
+    "en": "Qostanay",
+    "slug": "qostanay-kz02d16"
+  },
+  "code": {
+    "id": "KZ02D16",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ02",
+    "level": 1,
+    "name": {
+      "local": "Қостанай",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.179",
+    "lon": "63.531"
+  },
+  "metadata": {},
+  "source": {}
+}

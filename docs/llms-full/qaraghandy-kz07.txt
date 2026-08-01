@@ -1,0 +1,54 @@
+# Qaraghandy — Kazakhstan Administrative Divisions
+
+> 9 districts
+> Code: KZ07
+> Coordinates: 48.231, 71.782
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Abayskiy
+
+Code: KZ07D07, Coordinates: 49.549, 72.234
+
+
+### Aktogayskiy
+
+Code: KZ07D02, Coordinates: 47.753, 75.598
+
+
+### Bukhar-Zhyrauskiy
+
+Code: KZ07D08, Coordinates: 50.153, 73.952
+
+
+### Karkaralinskiy
+
+Code: KZ07D03, Coordinates: 49.438, 76.128
+
+
+### Nurinskiy
+
+Code: KZ07D01, Coordinates: 49.481, 69.46
+
+
+### Osakarovskiy
+
+Code: KZ07D09, Coordinates: 50.574, 72.99
+
+
+### Shetskiy
+
+Code: KZ07D04, Coordinates: 48.236, 73.008
+
+
+### Ulytauskiy
+
+Code: KZ07D05, Coordinates: 47.741, 67.016
+
+
+### Zhanaarkinskiy
+
+Code: KZ07D06, Coordinates: 47.324, 70.371
+
+

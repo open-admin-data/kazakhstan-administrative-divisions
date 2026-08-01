@@ -1,0 +1,587 @@
+[
+  {
+    "id": "KZ01D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Alginskiy",
+      "en": "Alginskiy",
+      "slug": "alginskiy-kz01d05"
+    },
+    "code": {
+      "id": "KZ01D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.981",
+      "lon": "56.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aqtobe",
+      "en": "Aqtobe",
+      "slug": "aqtobe-kz01d08"
+    },
+    "code": {
+      "id": "KZ01D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.336",
+      "lon": "57.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aytekebiyskiy",
+      "en": "Aytekebiyskiy",
+      "slug": "aytekebiyskiy-kz01d12"
+    },
+    "code": {
+      "id": "KZ01D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.207",
+      "lon": "61.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bayganinskiy",
+      "en": "Bayganinskiy",
+      "slug": "bayganinskiy-kz01d02"
+    },
+    "code": {
+      "id": "KZ01D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.431",
+      "lon": "56.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Irgizskiy",
+      "en": "Irgizskiy",
+      "slug": "irgizskiy-kz01d11"
+    },
+    "code": {
+      "id": "KZ01D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.717",
+      "lon": "62.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kargalinskiy",
+      "en": "Kargalinskiy",
+      "slug": "kargalinskiy-kz01d09"
+    },
+    "code": {
+      "id": "KZ01D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.813",
+      "lon": "58.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khobdinskiy",
+      "en": "Khobdinskiy",
+      "slug": "khobdinskiy-kz01d04"
+    },
+    "code": {
+      "id": "KZ01D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.176",
+      "lon": "55.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khromtauskiy",
+      "en": "Khromtauskiy",
+      "slug": "khromtauskiy-kz01d06"
+    },
+    "code": {
+      "id": "KZ01D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.176",
+      "lon": "58.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Martukskiy",
+      "en": "Martukskiy",
+      "slug": "martukskiy-kz01d01"
+    },
+    "code": {
+      "id": "KZ01D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.679",
+      "lon": "56.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mugalzharskiy",
+      "en": "Mugalzharskiy",
+      "slug": "mugalzharskiy-kz01d13"
+    },
+    "code": {
+      "id": "KZ01D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.028",
+      "lon": "58.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shalkarskiy",
+      "en": "Shalkarskiy",
+      "slug": "shalkarskiy-kz01d07"
+    },
+    "code": {
+      "id": "KZ01D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.406",
+      "lon": "59.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Temirskiy",
+      "en": "Temirskiy",
+      "slug": "temirskiy-kz01d10"
+    },
+    "code": {
+      "id": "KZ01D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.322",
+      "lon": "56.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uilskiy",
+      "en": "Uilskiy",
+      "slug": "uilskiy-kz01d03"
+    },
+    "code": {
+      "id": "KZ01D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.271",
+      "lon": "54.663"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

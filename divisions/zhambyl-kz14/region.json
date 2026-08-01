@@ -1,0 +1,33 @@
+{
+  "id": "KZ14",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Жамбыл",
+    "en": "Zhambyl",
+    "slug": "zhambyl-kz14"
+  },
+  "code": {
+    "id": "KZ14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "44.377",
+    "lon": "72.211"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/zhambyl-kz14/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

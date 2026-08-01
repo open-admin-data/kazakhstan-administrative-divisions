@@ -1,0 +1,45 @@
+{
+  "id": "KZ01D11",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Irgizskiy",
+    "en": "Irgizskiy",
+    "slug": "irgizskiy-kz01d11"
+  },
+  "code": {
+    "id": "KZ01D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ01",
+    "level": 1,
+    "name": {
+      "local": "Ақтөбе",
+      "en": "Aqtöbe",
+      "slug": "aqtobe-kz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.717",
+    "lon": "62.003"
+  },
+  "metadata": {},
+  "source": {}
+}

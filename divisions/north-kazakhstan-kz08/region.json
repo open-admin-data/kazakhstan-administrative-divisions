@@ -1,0 +1,33 @@
+{
+  "id": "KZ08",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Солтүстік Қазақстан",
+    "en": "North Kazakhstan",
+    "slug": "north-kazakhstan-kz08"
+  },
+  "code": {
+    "id": "KZ08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.45",
+    "lon": "69.223"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/north-kazakhstan-kz08/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

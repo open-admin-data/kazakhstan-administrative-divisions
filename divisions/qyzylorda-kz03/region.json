@@ -1,0 +1,33 @@
+{
+  "id": "KZ03",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Қызылорда",
+    "en": "Qyzylorda",
+    "slug": "qyzylorda-kz03"
+  },
+  "code": {
+    "id": "KZ03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "45.253",
+    "lon": "63.648"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/qyzylorda-kz03/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

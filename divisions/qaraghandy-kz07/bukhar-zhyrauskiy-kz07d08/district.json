@@ -1,0 +1,45 @@
+{
+  "id": "KZ07D08",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bukhar-Zhyrauskiy",
+    "en": "Bukhar-Zhyrauskiy",
+    "slug": "bukhar-zhyrauskiy-kz07d08"
+  },
+  "code": {
+    "id": "KZ07D08",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ07",
+    "level": 1,
+    "name": {
+      "local": "Қарағанды",
+      "en": "Qaraghandy",
+      "slug": "qaraghandy-kz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.153",
+    "lon": "73.952"
+  },
+  "metadata": {},
+  "source": {}
+}

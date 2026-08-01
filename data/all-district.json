@@ -1,0 +1,7562 @@
+[
+  {
+    "id": "KZ04D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kurmangazinskiy",
+      "en": "Kurmangazinskiy",
+      "slug": "kurmangazinskiy-kz04d01"
+    },
+    "code": {
+      "id": "KZ04D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ04",
+        "level": 1,
+        "name": {
+          "local": "Атырау",
+          "en": "Atyrau",
+          "slug": "atyrau-kz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.472",
+      "lon": "49.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Borodulikhinskiy",
+      "en": "Borodulikhinskiy",
+      "slug": "borodulikhinskiy-kz10d01"
+    },
+    "code": {
+      "id": "KZ10D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.649",
+      "lon": "81.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Glubokovskiy",
+      "en": "Glubokovskiy",
+      "slug": "glubokovskiy-kz10d02"
+    },
+    "code": {
+      "id": "KZ10D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.339",
+      "lon": "82.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Raiymbekskiy",
+      "en": "Raiymbekskiy",
+      "slug": "raiymbekskiy-kz11d01"
+    },
+    "code": {
+      "id": "KZ11D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.828",
+      "lon": "79.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zaysanskiy",
+      "en": "Zaysanskiy",
+      "slug": "zaysanskiy-kz10d03"
+    },
+    "code": {
+      "id": "KZ10D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.435",
+      "lon": "84.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Katon-Karagayskiy",
+      "en": "Katon-Karagayskiy",
+      "slug": "katon-karagayskiy-kz10d04"
+    },
+    "code": {
+      "id": "KZ10D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.297",
+      "lon": "85.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zyryanovsk",
+      "en": "Zyryanovsk",
+      "slug": "zyryanovsk-kz10d05"
+    },
+    "code": {
+      "id": "KZ10D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.589",
+      "lon": "85.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kordayskiy",
+      "en": "Kordayskiy",
+      "slug": "kordayskiy-kz14d01"
+    },
+    "code": {
+      "id": "KZ14D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.326",
+      "lon": "74.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Merkenskiy",
+      "en": "Merkenskiy",
+      "slug": "merkenskiy-kz14d02"
+    },
+    "code": {
+      "id": "KZ14D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.828",
+      "lon": "73.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Martukskiy",
+      "en": "Martukskiy",
+      "slug": "martukskiy-kz01d01"
+    },
+    "code": {
+      "id": "KZ01D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.679",
+      "lon": "56.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Burlinskiy",
+      "en": "Burlinskiy",
+      "slug": "burlinskiy-kz05d01"
+    },
+    "code": {
+      "id": "KZ05D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.119",
+      "lon": "53.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dzhanybekskiy",
+      "en": "Dzhanybekskiy",
+      "slug": "dzhanybekskiy-kz05d02"
+    },
+    "code": {
+      "id": "KZ05D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.566",
+      "lon": "47.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taskalinskiy",
+      "en": "Taskalinskiy",
+      "slug": "taskalinskiy-kz05d03"
+    },
+    "code": {
+      "id": "KZ05D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.831",
+      "lon": "49.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zelenovskiy",
+      "en": "Zelenovskiy",
+      "slug": "zelenovskiy-kz05d04"
+    },
+    "code": {
+      "id": "KZ05D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.308",
+      "lon": "51.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karabalykskiy",
+      "en": "Karabalykskiy",
+      "slug": "karabalykskiy-kz02d01"
+    },
+    "code": {
+      "id": "KZ02D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.514",
+      "lon": "61.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fyodorovskiy",
+      "en": "Fyodorovskiy",
+      "slug": "fyodorovskiy-kz02d02"
+    },
+    "code": {
+      "id": "KZ02D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.761",
+      "lon": "62.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ12D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karakiyanskiy",
+      "en": "Karakiyanskiy",
+      "slug": "karakiyanskiy-kz12d01"
+    },
+    "code": {
+      "id": "KZ12D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ12",
+        "level": 1,
+        "name": {
+          "local": "Маңғыстау",
+          "en": "Mangghystau",
+          "slug": "mangghystau-kz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.478",
+      "lon": "51.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ12D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tupkaraganskiy",
+      "en": "Tupkaraganskiy",
+      "slug": "tupkaraganskiy-kz12d02"
+    },
+    "code": {
+      "id": "KZ12D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ12",
+        "level": 1,
+        "name": {
+          "local": "Маңғыстау",
+          "en": "Mangghystau",
+          "slug": "mangghystau-kz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.424",
+      "lon": "50.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhelezinskiy",
+      "en": "Zhelezinskiy",
+      "slug": "zhelezinskiy-kz09d01"
+    },
+    "code": {
+      "id": "KZ09D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.809",
+      "lon": "75.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uspenskiy",
+      "en": "Uspenskiy",
+      "slug": "uspenskiy-kz09d02"
+    },
+    "code": {
+      "id": "KZ09D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.056",
+      "lon": "77.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulaevskiy",
+      "en": "Bulaevskiy",
+      "slug": "bulaevskiy-kz08d01"
+    },
+    "code": {
+      "id": "KZ08D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.695",
+      "lon": "70.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kyzylzharskiy",
+      "en": "Kyzylzharskiy",
+      "slug": "kyzylzharskiy-kz08d02"
+    },
+    "code": {
+      "id": "KZ08D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.999",
+      "lon": "69.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mamlyutskiy",
+      "en": "Mamlyutskiy",
+      "slug": "mamlyutskiy-kz08d03"
+    },
+    "code": {
+      "id": "KZ08D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.698",
+      "lon": "68.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maktaaral`skiy",
+      "en": "Maktaaral`skiy",
+      "slug": "maktaaral-skiy-kz13d01"
+    },
+    "code": {
+      "id": "KZ13D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.812",
+      "lon": "68.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chardarinskiy",
+      "en": "Chardarinskiy",
+      "slug": "chardarinskiy-kz13d02"
+    },
+    "code": {
+      "id": "KZ13D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.588",
+      "lon": "67.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ualikhanovskiy",
+      "en": "Ualikhanovskiy",
+      "slug": "ualikhanovskiy-kz08d04"
+    },
+    "code": {
+      "id": "KZ08D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.481",
+      "lon": "72.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tolebiyskiy",
+      "en": "Tolebiyskiy",
+      "slug": "tolebiyskiy-kz13d03"
+    },
+    "code": {
+      "id": "KZ13D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.213",
+      "lon": "70.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shuchinskiy",
+      "en": "Shuchinskiy",
+      "slug": "shuchinskiy-kz06d01"
+    },
+    "code": {
+      "id": "KZ06D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.115",
+      "lon": "70.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talgarskiy",
+      "en": "Talgarskiy",
+      "slug": "talgarskiy-kz11d02"
+    },
+    "code": {
+      "id": "KZ11D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.349",
+      "lon": "77.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taranovskiy",
+      "en": "Taranovskiy",
+      "slug": "taranovskiy-kz02d03"
+    },
+    "code": {
+      "id": "KZ02D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.961",
+      "lon": "63.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ12D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aqtau",
+      "en": "Aqtau",
+      "slug": "aqtau-kz12d03"
+    },
+    "code": {
+      "id": "KZ12D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ12",
+        "level": 1,
+        "name": {
+          "local": "Маңғыстау",
+          "en": "Mangghystau",
+          "slug": "mangghystau-kz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.658",
+      "lon": "51.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mendykarinskiy",
+      "en": "Mendykarinskiy",
+      "slug": "mendykarinskiy-kz02d04"
+    },
+    "code": {
+      "id": "KZ02D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.929",
+      "lon": "64.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atbasarskiy",
+      "en": "Atbasarskiy",
+      "slug": "atbasarskiy-kz06d02"
+    },
+    "code": {
+      "id": "KZ06D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.547",
+      "lon": "68.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulandynskiy",
+      "en": "Bulandynskiy",
+      "slug": "bulandynskiy-kz06d03"
+    },
+    "code": {
+      "id": "KZ06D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.201",
+      "lon": "69.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Astrakhansiy",
+      "en": "Astrakhansiy",
+      "slug": "astrakhansiy-kz06d04"
+    },
+    "code": {
+      "id": "KZ06D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.463",
+      "lon": "69.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Korgalzhynskiy",
+      "en": "Korgalzhynskiy",
+      "slug": "korgalzhynskiy-kz06d05"
+    },
+    "code": {
+      "id": "KZ06D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.523",
+      "lon": "69.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sandyktauskiy",
+      "en": "Sandyktauskiy",
+      "slug": "sandyktauskiy-kz06d06"
+    },
+    "code": {
+      "id": "KZ06D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.42",
+      "lon": "68.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bayganinskiy",
+      "en": "Bayganinskiy",
+      "slug": "bayganinskiy-kz01d02"
+    },
+    "code": {
+      "id": "KZ01D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.431",
+      "lon": "56.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uilskiy",
+      "en": "Uilskiy",
+      "slug": "uilskiy-kz01d03"
+    },
+    "code": {
+      "id": "KZ01D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.271",
+      "lon": "54.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balkhashskiy",
+      "en": "Balkhashskiy",
+      "slug": "balkhashskiy-kz11d03"
+    },
+    "code": {
+      "id": "KZ11D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.742",
+      "lon": "75.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Koksuskiy",
+      "en": "Koksuskiy",
+      "slug": "koksuskiy-kz11d04"
+    },
+    "code": {
+      "id": "KZ11D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.766",
+      "lon": "77.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aksuskiy",
+      "en": "Aksuskiy",
+      "slug": "aksuskiy-kz11d05"
+    },
+    "code": {
+      "id": "KZ11D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.447",
+      "lon": "79.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panfilovskiy",
+      "en": "Panfilovskiy",
+      "slug": "panfilovskiy-kz11d06"
+    },
+    "code": {
+      "id": "KZ11D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.308",
+      "lon": "79.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Alakolskiy",
+      "en": "Alakolskiy",
+      "slug": "alakolskiy-kz11d07"
+    },
+    "code": {
+      "id": "KZ11D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.005",
+      "lon": "80.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karatal`skiy",
+      "en": "Karatal`skiy",
+      "slug": "karatal-skiy-kz11d08"
+    },
+    "code": {
+      "id": "KZ11D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.811",
+      "lon": "77.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarkandskiy",
+      "en": "Sarkandskiy",
+      "slug": "sarkandskiy-kz11d09"
+    },
+    "code": {
+      "id": "KZ11D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.472",
+      "lon": "79.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karasayskiy",
+      "en": "Karasayskiy",
+      "slug": "karasayskiy-kz11d10"
+    },
+    "code": {
+      "id": "KZ11D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.147",
+      "lon": "76.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kerbulakskiy",
+      "en": "Kerbulakskiy",
+      "slug": "kerbulakskiy-kz11d11"
+    },
+    "code": {
+      "id": "KZ11D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.214",
+      "lon": "78.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uygurskiy",
+      "en": "Uygurskiy",
+      "slug": "uygurskiy-kz11d12"
+    },
+    "code": {
+      "id": "KZ11D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.577",
+      "lon": "79.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Enbekshikazakhskiy",
+      "en": "Enbekshikazakhskiy",
+      "slug": "enbekshikazakhskiy-kz11d13"
+    },
+    "code": {
+      "id": "KZ11D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.498",
+      "lon": "78.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Iliyskiy",
+      "en": "Iliyskiy",
+      "slug": "iliyskiy-kz11d14"
+    },
+    "code": {
+      "id": "KZ11D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.059",
+      "lon": "76.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ15D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Almaty",
+      "en": "Almaty",
+      "slug": "almaty-kz15d01"
+    },
+    "code": {
+      "id": "KZ15D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ15",
+      "level": 1,
+      "name": {
+        "local": "Алматы",
+        "en": "Almaty City",
+        "slug": "almaty-city-kz15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ15",
+        "level": 1,
+        "name": {
+          "local": "Алматы",
+          "en": "Almaty City",
+          "slug": "almaty-city-kz15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.236",
+      "lon": "76.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shortandinskiy",
+      "en": "Shortandinskiy",
+      "slug": "shortandinskiy-kz06d07"
+    },
+    "code": {
+      "id": "KZ06D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.62",
+      "lon": "71.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ16D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tselinogradskiy",
+      "en": "Tselinogradskiy",
+      "slug": "tselinogradskiy-kz16d01"
+    },
+    "code": {
+      "id": "KZ16D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ16",
+      "level": 1,
+      "name": {
+        "local": "Астана",
+        "en": "Astana",
+        "slug": "astana-kz16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ16",
+        "level": 1,
+        "name": {
+          "local": "Астана",
+          "en": "Astana",
+          "slug": "astana-kz16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.139",
+      "lon": "71.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arshalynskiy",
+      "en": "Arshalynskiy",
+      "slug": "arshalynskiy-kz06d08"
+    },
+    "code": {
+      "id": "KZ06D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.939",
+      "lon": "72.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ04D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Inderskiy",
+      "en": "Inderskiy",
+      "slug": "inderskiy-kz04d02"
+    },
+    "code": {
+      "id": "KZ04D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ04",
+        "level": 1,
+        "name": {
+          "local": "Атырау",
+          "en": "Atyrau",
+          "slug": "atyrau-kz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.298",
+      "lon": "51.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ04D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Isatayskiy",
+      "en": "Isatayskiy",
+      "slug": "isatayskiy-kz04d03"
+    },
+    "code": {
+      "id": "KZ04D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ04",
+        "level": 1,
+        "name": {
+          "local": "Атырау",
+          "en": "Atyrau",
+          "slug": "atyrau-kz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.412",
+      "lon": "50.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ04D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atyrau",
+      "en": "Atyrau",
+      "slug": "atyrau-kz04d04"
+    },
+    "code": {
+      "id": "KZ04D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ04",
+        "level": 1,
+        "name": {
+          "local": "Атырау",
+          "en": "Atyrau",
+          "slug": "atyrau-kz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.042",
+      "lon": "52.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ04D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kzylkoginskiy",
+      "en": "Kzylkoginskiy",
+      "slug": "kzylkoginskiy-kz04d05"
+    },
+    "code": {
+      "id": "KZ04D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ04",
+        "level": 1,
+        "name": {
+          "local": "Атырау",
+          "en": "Atyrau",
+          "slug": "atyrau-kz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.368",
+      "lon": "53.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ04D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makatskiy",
+      "en": "Makatskiy",
+      "slug": "makatskiy-kz04d06"
+    },
+    "code": {
+      "id": "KZ04D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ04",
+        "level": 1,
+        "name": {
+          "local": "Атырау",
+          "en": "Atyrau",
+          "slug": "atyrau-kz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.399",
+      "lon": "53.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ04D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makhambetskiy",
+      "en": "Makhambetskiy",
+      "slug": "makhambetskiy-kz04d07"
+    },
+    "code": {
+      "id": "KZ04D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ04",
+        "level": 1,
+        "name": {
+          "local": "Атырау",
+          "en": "Atyrau",
+          "slug": "atyrau-kz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.685",
+      "lon": "51.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayagozskiy",
+      "en": "Ayagozskiy",
+      "slug": "ayagozskiy-kz10d06"
+    },
+    "code": {
+      "id": "KZ10D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.75",
+      "lon": "78.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kokpektinskiy",
+      "en": "Kokpektinskiy",
+      "slug": "kokpektinskiy-kz10d07"
+    },
+    "code": {
+      "id": "KZ10D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.654",
+      "lon": "82.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zharminskiy",
+      "en": "Zharminskiy",
+      "slug": "zharminskiy-kz10d08"
+    },
+    "code": {
+      "id": "KZ10D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.187",
+      "lon": "81.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tarbagatayskiy",
+      "en": "Tarbagatayskiy",
+      "slug": "tarbagatayskiy-kz10d09"
+    },
+    "code": {
+      "id": "KZ10D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.682",
+      "lon": "82.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kurchumskiy",
+      "en": "Kurchumskiy",
+      "slug": "kurchumskiy-kz10d10"
+    },
+    "code": {
+      "id": "KZ10D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.396",
+      "lon": "84.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulanskiy",
+      "en": "Ulanskiy",
+      "slug": "ulanskiy-kz10d11"
+    },
+    "code": {
+      "id": "KZ10D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.773",
+      "lon": "82.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhambyl",
+      "en": "Zhambyl",
+      "slug": "zhambyl-kz14d03"
+    },
+    "code": {
+      "id": "KZ14D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.584",
+      "lon": "71.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhualy",
+      "en": "Zhualy",
+      "slug": "zhualy-kz14d04"
+    },
+    "code": {
+      "id": "KZ14D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.886",
+      "lon": "71.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D15",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhambylskiy",
+      "en": "Zhambylskiy",
+      "slug": "zhambylskiy-kz11d15"
+    },
+    "code": {
+      "id": "KZ11D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.85",
+      "lon": "75.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moyynkumskiy",
+      "en": "Moyynkumskiy",
+      "slug": "moyynkumskiy-kz14d05"
+    },
+    "code": {
+      "id": "KZ14D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.931",
+      "lon": "72.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bayzakskiy",
+      "en": "Bayzakskiy",
+      "slug": "bayzakskiy-kz14d06"
+    },
+    "code": {
+      "id": "KZ14D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.184",
+      "lon": "71.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lugovskoy",
+      "en": "Lugovskoy",
+      "slug": "lugovskoy-kz14d07"
+    },
+    "code": {
+      "id": "KZ14D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.145",
+      "lon": "72.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khobdinskiy",
+      "en": "Khobdinskiy",
+      "slug": "khobdinskiy-kz01d04"
+    },
+    "code": {
+      "id": "KZ01D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.176",
+      "lon": "55.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karatobinskiy",
+      "en": "Karatobinskiy",
+      "slug": "karatobinskiy-kz05d05"
+    },
+    "code": {
+      "id": "KZ05D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.497",
+      "lon": "53.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Syrymskiy",
+      "en": "Syrymskiy",
+      "slug": "syrymskiy-kz05d06"
+    },
+    "code": {
+      "id": "KZ05D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.226",
+      "lon": "52.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zharkainskiy",
+      "en": "Zharkainskiy",
+      "slug": "zharkainskiy-kz06d09"
+    },
+    "code": {
+      "id": "KZ06D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.083",
+      "lon": "66.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nurinskiy",
+      "en": "Nurinskiy",
+      "slug": "nurinskiy-kz07d01"
+    },
+    "code": {
+      "id": "KZ07D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.481",
+      "lon": "69.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Egindykol`skiy",
+      "en": "Egindykol`skiy",
+      "slug": "egindykol-skiy-kz06d10"
+    },
+    "code": {
+      "id": "KZ06D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.871",
+      "lon": "69.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aktogayskiy",
+      "en": "Aktogayskiy",
+      "slug": "aktogayskiy-kz07d02"
+    },
+    "code": {
+      "id": "KZ07D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.753",
+      "lon": "75.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karkaralinskiy",
+      "en": "Karkaralinskiy",
+      "slug": "karkaralinskiy-kz07d03"
+    },
+    "code": {
+      "id": "KZ07D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.438",
+      "lon": "76.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shetskiy",
+      "en": "Shetskiy",
+      "slug": "shetskiy-kz07d04"
+    },
+    "code": {
+      "id": "KZ07D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.236",
+      "lon": "73.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarysuskiy",
+      "en": "Sarysuskiy",
+      "slug": "sarysuskiy-kz14d08"
+    },
+    "code": {
+      "id": "KZ14D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.235",
+      "lon": "70.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Naurzumskiy",
+      "en": "Naurzumskiy",
+      "slug": "naurzumskiy-kz02d05"
+    },
+    "code": {
+      "id": "KZ02D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.412",
+      "lon": "64.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulytauskiy",
+      "en": "Ulytauskiy",
+      "slug": "ulytauskiy-kz07d05"
+    },
+    "code": {
+      "id": "KZ07D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.741",
+      "lon": "67.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arkalyk",
+      "en": "Arkalyk",
+      "slug": "arkalyk-kz02d06"
+    },
+    "code": {
+      "id": "KZ02D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.079",
+      "lon": "66.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Alginskiy",
+      "en": "Alginskiy",
+      "slug": "alginskiy-kz01d05"
+    },
+    "code": {
+      "id": "KZ01D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.981",
+      "lon": "56.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khromtauskiy",
+      "en": "Khromtauskiy",
+      "slug": "khromtauskiy-kz01d06"
+    },
+    "code": {
+      "id": "KZ01D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.176",
+      "lon": "58.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhitikarinskiy",
+      "en": "Zhitikarinskiy",
+      "slug": "zhitikarinskiy-kz02d07"
+    },
+    "code": {
+      "id": "KZ02D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.94",
+      "lon": "61.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dzhangil`dinskiy",
+      "en": "Dzhangil`dinskiy",
+      "slug": "dzhangil-dinskiy-kz02d08"
+    },
+    "code": {
+      "id": "KZ02D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.62",
+      "lon": "63.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kamystinskiy",
+      "en": "Kamystinskiy",
+      "slug": "kamystinskiy-kz02d09"
+    },
+    "code": {
+      "id": "KZ02D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.584",
+      "lon": "62.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Altynsarinskiy",
+      "en": "Altynsarinskiy",
+      "slug": "altynsarinskiy-kz02d10"
+    },
+    "code": {
+      "id": "KZ02D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.059",
+      "lon": "64.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karasuskiy",
+      "en": "Karasuskiy",
+      "slug": "karasuskiy-kz02d11"
+    },
+    "code": {
+      "id": "KZ02D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.377",
+      "lon": "65.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ12D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beyneuskiy",
+      "en": "Beyneuskiy",
+      "slug": "beyneuskiy-kz12d04"
+    },
+    "code": {
+      "id": "KZ12D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ12",
+        "level": 1,
+        "name": {
+          "local": "Маңғыстау",
+          "en": "Mangghystau",
+          "slug": "mangghystau-kz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.52",
+      "lon": "54.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shalkarskiy",
+      "en": "Shalkarskiy",
+      "slug": "shalkarskiy-kz01d07"
+    },
+    "code": {
+      "id": "KZ01D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.406",
+      "lon": "59.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ12D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manghystauskiy",
+      "en": "Manghystauskiy",
+      "slug": "manghystauskiy-kz12d05"
+    },
+    "code": {
+      "id": "KZ12D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ12",
+        "level": 1,
+        "name": {
+          "local": "Маңғыстау",
+          "en": "Mangghystau",
+          "slug": "mangghystau-kz12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.548",
+      "lon": "53.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kachirskiy",
+      "en": "Kachirskiy",
+      "slug": "kachirskiy-kz09d03"
+    },
+    "code": {
+      "id": "KZ09D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.211",
+      "lon": "76.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lebyazhinskiy",
+      "en": "Lebyazhinskiy",
+      "slug": "lebyazhinskiy-kz09d04"
+    },
+    "code": {
+      "id": "KZ09D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.52",
+      "lon": "78.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pavlodarskiy",
+      "en": "Pavlodarskiy",
+      "slug": "pavlodarskiy-kz09d05"
+    },
+    "code": {
+      "id": "KZ09D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.328",
+      "lon": "77.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Esil`skiy",
+      "en": "Esil`skiy",
+      "slug": "esil-skiy-kz08d05"
+    },
+    "code": {
+      "id": "KZ08D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.112",
+      "lon": "68.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shal Akyna",
+      "en": "Shal Akyna",
+      "slug": "shal-akyna-kz08d06"
+    },
+    "code": {
+      "id": "KZ08D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.794",
+      "lon": "67.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarykol`skiy",
+      "en": "Sarykol`skiy",
+      "slug": "sarykol-skiy-kz02d12"
+    },
+    "code": {
+      "id": "KZ02D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.461",
+      "lon": "65.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tselinniy",
+      "en": "Tselinniy",
+      "slug": "tselinniy-kz08d07"
+    },
+    "code": {
+      "id": "KZ08D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.804",
+      "lon": "66.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Enbekshil`derskiy",
+      "en": "Enbekshil`derskiy",
+      "slug": "enbekshil-derskiy-kz06d11"
+    },
+    "code": {
+      "id": "KZ06D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.931",
+      "lon": "71.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taiynshinskiy",
+      "en": "Taiynshinskiy",
+      "slug": "taiynshinskiy-kz08d08"
+    },
+    "code": {
+      "id": "KZ08D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.812",
+      "lon": "70.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayyrtauskiy",
+      "en": "Ayyrtauskiy",
+      "slug": "ayyrtauskiy-kz08d09"
+    },
+    "code": {
+      "id": "KZ08D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.143",
+      "lon": "68.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arysskiy",
+      "en": "Arysskiy",
+      "slug": "arysskiy-kz13d04"
+    },
+    "code": {
+      "id": "KZ13D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.258",
+      "lon": "68.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baydibekskiy",
+      "en": "Baydibekskiy",
+      "slug": "baydibekskiy-kz13d05"
+    },
+    "code": {
+      "id": "KZ13D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.049",
+      "lon": "69.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kazygurtskiy",
+      "en": "Kazygurtskiy",
+      "slug": "kazygurtskiy-kz13d06"
+    },
+    "code": {
+      "id": "KZ13D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.859",
+      "lon": "69.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ordabasynskiy",
+      "en": "Ordabasynskiy",
+      "slug": "ordabasynskiy-kz13d07"
+    },
+    "code": {
+      "id": "KZ13D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.86",
+      "lon": "68.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Otrarskiy",
+      "en": "Otrarskiy",
+      "slug": "otrarskiy-kz13d08"
+    },
+    "code": {
+      "id": "KZ13D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.639",
+      "lon": "67.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sayramskiy",
+      "en": "Sayramskiy",
+      "slug": "sayramskiy-kz13d09"
+    },
+    "code": {
+      "id": "KZ13D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.402",
+      "lon": "69.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhanaarkinskiy",
+      "en": "Zhanaarkinskiy",
+      "slug": "zhanaarkinskiy-kz07d06"
+    },
+    "code": {
+      "id": "KZ07D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.324",
+      "lon": "70.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suzakskiy",
+      "en": "Suzakskiy",
+      "slug": "suzakskiy-kz13d10"
+    },
+    "code": {
+      "id": "KZ13D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.905",
+      "lon": "68.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tyul`kubaskiy",
+      "en": "Tyul`kubaskiy",
+      "slug": "tyul-kubaskiy-kz13d11"
+    },
+    "code": {
+      "id": "KZ13D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.546",
+      "lon": "70.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shymkent",
+      "en": "Shymkent",
+      "slug": "shymkent-kz13d12"
+    },
+    "code": {
+      "id": "KZ13D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.339",
+      "lon": "69.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shemonaikhinskiy",
+      "en": "Shemonaikhinskiy",
+      "slug": "shemonaikhinskiy-kz10d12"
+    },
+    "code": {
+      "id": "KZ10D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.565",
+      "lon": "82.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kazalinskiy",
+      "en": "Kazalinskiy",
+      "slug": "kazalinskiy-kz03d01"
+    },
+    "code": {
+      "id": "KZ03D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.204",
+      "lon": "62.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sherbaktinskiy",
+      "en": "Sherbaktinskiy",
+      "slug": "sherbaktinskiy-kz09d06"
+    },
+    "code": {
+      "id": "KZ09D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.468",
+      "lon": "78.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akkol`skiy",
+      "en": "Akkol`skiy",
+      "slug": "akkol-skiy-kz06d12"
+    },
+    "code": {
+      "id": "KZ06D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.241",
+      "lon": "71.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ereymengauskiy",
+      "en": "Ereymengauskiy",
+      "slug": "ereymengauskiy-kz06d13"
+    },
+    "code": {
+      "id": "KZ06D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.898",
+      "lon": "73.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhaksynskiy",
+      "en": "Zhaksynskiy",
+      "slug": "zhaksynskiy-kz06d14"
+    },
+    "code": {
+      "id": "KZ06D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.631",
+      "lon": "67.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aqtobe",
+      "en": "Aqtobe",
+      "slug": "aqtobe-kz01d08"
+    },
+    "code": {
+      "id": "KZ01D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.336",
+      "lon": "57.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aral`skiy",
+      "en": "Aral`skiy",
+      "slug": "aral-skiy-kz03d02"
+    },
+    "code": {
+      "id": "KZ03D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.966",
+      "lon": "60.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ11D16",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taldyqorghan",
+      "en": "Taldyqorghan",
+      "slug": "taldyqorghan-kz11d16"
+    },
+    "code": {
+      "id": "KZ11D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ11",
+        "level": 1,
+        "name": {
+          "local": "Алматы облысы",
+          "en": "Almaty",
+          "slug": "almaty-kz11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.958",
+      "lon": "78.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ04D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhylyoyskiy",
+      "en": "Zhylyoyskiy",
+      "slug": "zhylyoyskiy-kz04d08"
+    },
+    "code": {
+      "id": "KZ04D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ04",
+        "level": 1,
+        "name": {
+          "local": "Атырау",
+          "en": "Atyrau",
+          "slug": "atyrau-kz04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.978",
+      "lon": "54.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beskaragayskiy",
+      "en": "Beskaragayskiy",
+      "slug": "beskaragayskiy-kz10d13"
+    },
+    "code": {
+      "id": "KZ10D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.99",
+      "lon": "79.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semey",
+      "en": "Semey",
+      "slug": "semey-kz10d14"
+    },
+    "code": {
+      "id": "KZ10D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.678",
+      "lon": "77.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talasskiy",
+      "en": "Talasskiy",
+      "slug": "talasskiy-kz14d09"
+    },
+    "code": {
+      "id": "KZ14D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.811",
+      "lon": "70.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dzhangalinskiy",
+      "en": "Dzhangalinskiy",
+      "slug": "dzhangalinskiy-kz05d07"
+    },
+    "code": {
+      "id": "KZ05D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.902",
+      "lon": "50.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abayskiy",
+      "en": "Abayskiy",
+      "slug": "abayskiy-kz07d07"
+    },
+    "code": {
+      "id": "KZ07D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.549",
+      "lon": "72.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukhar-Zhyrauskiy",
+      "en": "Bukhar-Zhyrauskiy",
+      "slug": "bukhar-zhyrauskiy-kz07d08"
+    },
+    "code": {
+      "id": "KZ07D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.153",
+      "lon": "73.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Osakarovskiy",
+      "en": "Osakarovskiy",
+      "slug": "osakarovskiy-kz07d09"
+    },
+    "code": {
+      "id": "KZ07D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.574",
+      "lon": "72.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bayanaul`skiy",
+      "en": "Bayanaul`skiy",
+      "slug": "bayanaul-skiy-kz09d07"
+    },
+    "code": {
+      "id": "KZ09D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.765",
+      "lon": "75.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amangel`dinskiy",
+      "en": "Amangel`dinskiy",
+      "slug": "amangel-dinskiy-kz02d13"
+    },
+    "code": {
+      "id": "KZ02D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.201",
+      "lon": "65.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Auliekol`skiy",
+      "en": "Auliekol`skiy",
+      "slug": "auliekol-skiy-kz02d14"
+    },
+    "code": {
+      "id": "KZ02D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.259",
+      "lon": "63.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D15",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Denisovskiy",
+      "en": "Denisovskiy",
+      "slug": "denisovskiy-kz02d15"
+    },
+    "code": {
+      "id": "KZ02D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.608",
+      "lon": "61.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D16",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Qostanay",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02d16"
+    },
+    "code": {
+      "id": "KZ02D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.179",
+      "lon": "63.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Turkestan",
+      "en": "Turkestan",
+      "slug": "turkestan-kz13d13"
+    },
+    "code": {
+      "id": "KZ13D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.466",
+      "lon": "68.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhanakorganskiy",
+      "en": "Zhanakorganskiy",
+      "slug": "zhanakorganskiy-kz03d03"
+    },
+    "code": {
+      "id": "KZ03D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.503",
+      "lon": "67.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Syrdariya",
+      "en": "Syrdariya",
+      "slug": "syrdariya-kz03d04"
+    },
+    "code": {
+      "id": "KZ03D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.66",
+      "lon": "65.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhalagashskiy",
+      "en": "Zhalagashskiy",
+      "slug": "zhalagashskiy-kz03d05"
+    },
+    "code": {
+      "id": "KZ03D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.293",
+      "lon": "64.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shieli",
+      "en": "Shieli",
+      "slug": "shieli-kz03d06"
+    },
+    "code": {
+      "id": "KZ03D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.465",
+      "lon": "66.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Qyzylorda",
+      "en": "Qyzylorda",
+      "slug": "qyzylorda-kz03d07"
+    },
+    "code": {
+      "id": "KZ03D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "44.881",
+      "lon": "65.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Irtyshskiy",
+      "en": "Irtyshskiy",
+      "slug": "irtyshskiy-kz09d08"
+    },
+    "code": {
+      "id": "KZ09D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.311",
+      "lon": "74.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akzharskiy",
+      "en": "Akzharskiy",
+      "slug": "akzharskiy-kz08d10"
+    },
+    "code": {
+      "id": "KZ08D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.68",
+      "lon": "71.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akkayin",
+      "en": "Akkayin",
+      "slug": "akkayin-kz08d11"
+    },
+    "code": {
+      "id": "KZ08D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.4",
+      "lon": "69.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ02D17",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uzunkol`skiy",
+      "en": "Uzunkol`skiy",
+      "slug": "uzunkol-skiy-kz02d17"
+    },
+    "code": {
+      "id": "KZ02D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ02",
+        "level": 1,
+        "name": {
+          "local": "Қостанай",
+          "en": "Qostanay",
+          "slug": "qostanay-kz02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.218",
+      "lon": "65.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ08D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Timiryazevskiy",
+      "en": "Timiryazevskiy",
+      "slug": "timiryazevskiy-kz08d12"
+    },
+    "code": {
+      "id": "KZ08D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ08",
+        "level": 1,
+        "name": {
+          "local": "Солтүстік Қазақстан",
+          "en": "North Kazakhstan",
+          "slug": "north-kazakhstan-kz08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.673",
+      "lon": "66.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ13D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saryagashskiy",
+      "en": "Saryagashskiy",
+      "slug": "saryagashskiy-kz13d14"
+    },
+    "code": {
+      "id": "KZ13D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ13",
+      "level": 1,
+      "name": {
+        "local": "Оңтүстік Қазақстан",
+        "en": "South Kazakhstan",
+        "slug": "south-kazakhstan-kz13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ13",
+        "level": 1,
+        "name": {
+          "local": "Оңтүстік Қазақстан",
+          "en": "South Kazakhstan",
+          "slug": "south-kazakhstan-kz13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.469",
+      "lon": "68.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ03D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karmakchinskiy",
+      "en": "Karmakchinskiy",
+      "slug": "karmakchinskiy-kz03d08"
+    },
+    "code": {
+      "id": "KZ03D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ03",
+        "level": 1,
+        "name": {
+          "local": "Қызылорда",
+          "en": "Qyzylorda",
+          "slug": "qyzylorda-kz03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "45.538",
+      "lon": "63.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kargalinskiy",
+      "en": "Kargalinskiy",
+      "slug": "kargalinskiy-kz01d09"
+    },
+    "code": {
+      "id": "KZ01D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.813",
+      "lon": "58.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Urdinskiy",
+      "en": "Urdinskiy",
+      "slug": "urdinskiy-kz05d08"
+    },
+    "code": {
+      "id": "KZ05D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.641",
+      "lon": "47.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaztalovskiy",
+      "en": "Kaztalovskiy",
+      "slug": "kaztalovskiy-kz05d09"
+    },
+    "code": {
+      "id": "KZ05D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.756",
+      "lon": "49.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Temirskiy",
+      "en": "Temirskiy",
+      "slug": "temirskiy-kz01d10"
+    },
+    "code": {
+      "id": "KZ01D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.322",
+      "lon": "56.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shuskiy",
+      "en": "Shuskiy",
+      "slug": "shuskiy-kz14d10"
+    },
+    "code": {
+      "id": "KZ14D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.571",
+      "lon": "73.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Akzhaikskiy",
+      "en": "Akzhaikskiy",
+      "slug": "akzhaikskiy-kz05d10"
+    },
+    "code": {
+      "id": "KZ05D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.415",
+      "lon": "51.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chingirlauskiy",
+      "en": "Chingirlauskiy",
+      "slug": "chingirlauskiy-kz05d11"
+    },
+    "code": {
+      "id": "KZ05D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.616",
+      "lon": "54.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mayskiy",
+      "en": "Mayskiy",
+      "slug": "mayskiy-kz09d09"
+    },
+    "code": {
+      "id": "KZ09D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.02",
+      "lon": "77.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Irgizskiy",
+      "en": "Irgizskiy",
+      "slug": "irgizskiy-kz01d11"
+    },
+    "code": {
+      "id": "KZ01D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.717",
+      "lon": "62.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D15",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leninogorsk",
+      "en": "Leninogorsk",
+      "slug": "leninogorsk-kz10d15"
+    },
+    "code": {
+      "id": "KZ10D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.391",
+      "lon": "83.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ06D15",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zerendinskiy",
+      "en": "Zerendinskiy",
+      "slug": "zerendinskiy-kz06d15"
+    },
+    "code": {
+      "id": "KZ06D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ06",
+      "level": 1,
+      "name": {
+        "local": "Ақмола",
+        "en": "Aqmola",
+        "slug": "aqmola-kz06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ06",
+        "level": 1,
+        "name": {
+          "local": "Ақмола",
+          "en": "Aqmola",
+          "slug": "aqmola-kz06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.095",
+      "lon": "69.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aytekebiyskiy",
+      "en": "Aytekebiyskiy",
+      "slug": "aytekebiyskiy-kz01d12"
+    },
+    "code": {
+      "id": "KZ01D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.207",
+      "lon": "61.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ01D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mugalzharskiy",
+      "en": "Mugalzharskiy",
+      "slug": "mugalzharskiy-kz01d13"
+    },
+    "code": {
+      "id": "KZ01D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ01",
+        "level": 1,
+        "name": {
+          "local": "Ақтөбе",
+          "en": "Aqtöbe",
+          "slug": "aqtobe-kz01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.028",
+      "lon": "58.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D16",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Urdzharskiy",
+      "en": "Urdzharskiy",
+      "slug": "urdzharskiy-kz10d16"
+    },
+    "code": {
+      "id": "KZ10D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.939",
+      "lon": "81.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ05D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Terektinskiy",
+      "en": "Terektinskiy",
+      "slug": "terektinskiy-kz05d12"
+    },
+    "code": {
+      "id": "KZ05D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ05",
+      "level": 1,
+      "name": {
+        "local": "Батыс Қазақстан",
+        "en": "West Kazakhstan",
+        "slug": "west-kazakhstan-kz05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ05",
+        "level": 1,
+        "name": {
+          "local": "Батыс Қазақстан",
+          "en": "West Kazakhstan",
+          "slug": "west-kazakhstan-kz05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.716",
+      "lon": "51.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ekibastuz",
+      "en": "Ekibastuz",
+      "slug": "ekibastuz-kz09d10"
+    },
+    "code": {
+      "id": "KZ09D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.844",
+      "lon": "74.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ14D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhualynskiy",
+      "en": "Zhualynskiy",
+      "slug": "zhualynskiy-kz14d11"
+    },
+    "code": {
+      "id": "KZ14D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ14",
+      "level": 1,
+      "name": {
+        "local": "Жамбыл",
+        "en": "Zhambyl",
+        "slug": "zhambyl-kz14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ14",
+        "level": 1,
+        "name": {
+          "local": "Жамбыл",
+          "en": "Zhambyl",
+          "slug": "zhambyl-kz14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.771",
+      "lon": "70.617"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

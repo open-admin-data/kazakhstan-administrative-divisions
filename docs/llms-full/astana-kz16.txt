@@ -1,0 +1,14 @@
+# Astana — Kazakhstan Administrative Divisions
+
+> 1 districts
+> Code: KZ16
+> Coordinates: 51.139, 71.412
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Tselinogradskiy
+
+Code: KZ16D01, Coordinates: 51.139, 71.412
+
+

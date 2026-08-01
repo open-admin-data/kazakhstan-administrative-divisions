@@ -1,0 +1,45 @@
+{
+  "id": "KZ12D04",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Beyneuskiy",
+    "en": "Beyneuskiy",
+    "slug": "beyneuskiy-kz12d04"
+  },
+  "code": {
+    "id": "KZ12D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ12",
+    "level": 1,
+    "name": {
+      "local": "Маңғыстау",
+      "en": "Mangghystau",
+      "slug": "mangghystau-kz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "45.52",
+    "lon": "54.973"
+  },
+  "metadata": {},
+  "source": {}
+}

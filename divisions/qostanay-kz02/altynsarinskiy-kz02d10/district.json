@@ -1,0 +1,45 @@
+{
+  "id": "KZ02D10",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Altynsarinskiy",
+    "en": "Altynsarinskiy",
+    "slug": "altynsarinskiy-kz02d10"
+  },
+  "code": {
+    "id": "KZ02D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ02",
+    "level": 1,
+    "name": {
+      "local": "Қостанай",
+      "en": "Qostanay",
+      "slug": "qostanay-kz02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ02",
+      "level": 1,
+      "name": {
+        "local": "Қостанай",
+        "en": "Qostanay",
+        "slug": "qostanay-kz02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.059",
+    "lon": "64.658"
+  },
+  "metadata": {},
+  "source": {}
+}

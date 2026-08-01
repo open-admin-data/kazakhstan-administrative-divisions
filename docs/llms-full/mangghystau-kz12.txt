@@ -1,0 +1,34 @@
+# Mangghystau — Kazakhstan Administrative Divisions
+
+> 5 districts
+> Code: KZ12
+> Coordinates: 44.161, 54.174
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Aqtau
+
+Code: KZ12D03, Coordinates: 43.658, 51.306
+
+
+### Beyneuskiy
+
+Code: KZ12D04, Coordinates: 45.52, 54.973
+
+
+### Karakiyanskiy
+
+Code: KZ12D01, Coordinates: 43.478, 51.649
+
+
+### Manghystauskiy
+
+Code: KZ12D05, Coordinates: 44.548, 53.191
+
+
+### Tupkaraganskiy
+
+Code: KZ12D02, Coordinates: 44.424, 50.802
+
+

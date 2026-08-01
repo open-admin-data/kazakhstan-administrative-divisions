@@ -1,0 +1,94 @@
+# Qostanay — Kazakhstan Administrative Divisions
+
+> 17 districts
+> Code: KZ02
+> Coordinates: 52.108, 63.68
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Altynsarinskiy
+
+Code: KZ02D10, Coordinates: 53.059, 64.658
+
+
+### Amangel`dinskiy
+
+Code: KZ02D13, Coordinates: 50.201, 65.222
+
+
+### Arkalyk
+
+Code: KZ02D06, Coordinates: 50.079, 66.815
+
+
+### Auliekol`skiy
+
+Code: KZ02D14, Coordinates: 52.259, 63.825
+
+
+### Denisovskiy
+
+Code: KZ02D15, Coordinates: 52.608, 61.706
+
+
+### Dzhangil`dinskiy
+
+Code: KZ02D08, Coordinates: 49.62, 63.729
+
+
+### Fyodorovskiy
+
+Code: KZ02D02, Coordinates: 53.761, 62.811
+
+
+### Kamystinskiy
+
+Code: KZ02D09, Coordinates: 51.584, 62.324
+
+
+### Karabalykskiy
+
+Code: KZ02D01, Coordinates: 53.514, 61.859
+
+
+### Karasuskiy
+
+Code: KZ02D11, Coordinates: 52.377, 65.461
+
+
+### Mendykarinskiy
+
+Code: KZ02D04, Coordinates: 53.929, 64.332
+
+
+### Naurzumskiy
+
+Code: KZ02D05, Coordinates: 51.412, 64.453
+
+
+### Qostanay
+
+Code: KZ02D16, Coordinates: 53.179, 63.531
+
+
+### Sarykol`skiy
+
+Code: KZ02D12, Coordinates: 53.461, 65.736
+
+
+### Taranovskiy
+
+Code: KZ02D03, Coordinates: 52.961, 63.093
+
+
+### Uzunkol`skiy
+
+Code: KZ02D17, Coordinates: 54.218, 65.568
+
+
+### Zhitikarinskiy
+
+Code: KZ02D07, Coordinates: 51.94, 61.115
+
+

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "KZ07D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abayskiy",
+      "en": "Abayskiy",
+      "slug": "abayskiy-kz07d07"
+    },
+    "code": {
+      "id": "KZ07D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.549",
+      "lon": "72.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aktogayskiy",
+      "en": "Aktogayskiy",
+      "slug": "aktogayskiy-kz07d02"
+    },
+    "code": {
+      "id": "KZ07D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.753",
+      "lon": "75.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukhar-Zhyrauskiy",
+      "en": "Bukhar-Zhyrauskiy",
+      "slug": "bukhar-zhyrauskiy-kz07d08"
+    },
+    "code": {
+      "id": "KZ07D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.153",
+      "lon": "73.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karkaralinskiy",
+      "en": "Karkaralinskiy",
+      "slug": "karkaralinskiy-kz07d03"
+    },
+    "code": {
+      "id": "KZ07D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.438",
+      "lon": "76.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nurinskiy",
+      "en": "Nurinskiy",
+      "slug": "nurinskiy-kz07d01"
+    },
+    "code": {
+      "id": "KZ07D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.481",
+      "lon": "69.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Osakarovskiy",
+      "en": "Osakarovskiy",
+      "slug": "osakarovskiy-kz07d09"
+    },
+    "code": {
+      "id": "KZ07D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.574",
+      "lon": "72.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shetskiy",
+      "en": "Shetskiy",
+      "slug": "shetskiy-kz07d04"
+    },
+    "code": {
+      "id": "KZ07D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.236",
+      "lon": "73.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulytauskiy",
+      "en": "Ulytauskiy",
+      "slug": "ulytauskiy-kz07d05"
+    },
+    "code": {
+      "id": "KZ07D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.741",
+      "lon": "67.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ07D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhanaarkinskiy",
+      "en": "Zhanaarkinskiy",
+      "slug": "zhanaarkinskiy-kz07d06"
+    },
+    "code": {
+      "id": "KZ07D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ07",
+        "level": 1,
+        "name": {
+          "local": "Қарағанды",
+          "en": "Qaraghandy",
+          "slug": "qaraghandy-kz07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.324",
+      "lon": "70.371"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

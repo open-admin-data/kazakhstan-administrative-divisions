@@ -1,0 +1,59 @@
+# Pavlodar — Kazakhstan Administrative Divisions
+
+> 10 districts
+> Code: KZ09
+> Coordinates: 52.224, 76.005
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Bayanaul`skiy
+
+Code: KZ09D07, Coordinates: 50.765, 75.517
+
+
+### Ekibastuz
+
+Code: KZ09D10, Coordinates: 51.844, 74.896
+
+
+### Irtyshskiy
+
+Code: KZ09D08, Coordinates: 53.311, 74.722
+
+
+### Kachirskiy
+
+Code: KZ09D03, Coordinates: 53.211, 76.487
+
+
+### Lebyazhinskiy
+
+Code: KZ09D04, Coordinates: 51.52, 78.442
+
+
+### Mayskiy
+
+Code: KZ09D09, Coordinates: 51.02, 77.412
+
+
+### Pavlodarskiy
+
+Code: KZ09D05, Coordinates: 52.328, 77.308
+
+
+### Sherbaktinskiy
+
+Code: KZ09D06, Coordinates: 52.468, 78.215
+
+
+### Uspenskiy
+
+Code: KZ09D02, Coordinates: 53.056, 77.572
+
+
+### Zhelezinskiy
+
+Code: KZ09D01, Coordinates: 53.809, 75.746
+
+

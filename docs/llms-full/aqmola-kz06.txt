@@ -1,0 +1,84 @@
+# Aqmola — Kazakhstan Administrative Divisions
+
+> 15 districts
+> Code: KZ06
+> Coordinates: 51.861, 69.909
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Akkol`skiy
+
+Code: KZ06D12, Coordinates: 52.241, 71.532
+
+
+### Arshalynskiy
+
+Code: KZ06D08, Coordinates: 50.939, 72.138
+
+
+### Astrakhansiy
+
+Code: KZ06D04, Coordinates: 51.463, 69.494
+
+
+### Atbasarskiy
+
+Code: KZ06D02, Coordinates: 51.547, 68.447
+
+
+### Bulandynskiy
+
+Code: KZ06D03, Coordinates: 52.201, 69.911
+
+
+### Egindykol`skiy
+
+Code: KZ06D10, Coordinates: 50.871, 69.077
+
+
+### Enbekshil`derskiy
+
+Code: KZ06D11, Coordinates: 52.931, 71.14
+
+
+### Ereymengauskiy
+
+Code: KZ06D13, Coordinates: 51.898, 73.209
+
+
+### Korgalzhynskiy
+
+Code: KZ06D05, Coordinates: 50.523, 69.92
+
+
+### Sandyktauskiy
+
+Code: KZ06D06, Coordinates: 52.42, 68.696
+
+
+### Shortandinskiy
+
+Code: KZ06D07, Coordinates: 51.62, 71.157
+
+
+### Shuchinskiy
+
+Code: KZ06D01, Coordinates: 53.115, 70.69
+
+
+### Zerendinskiy
+
+Code: KZ06D15, Coordinates: 53.095, 69.266
+
+
+### Zhaksynskiy
+
+Code: KZ06D14, Coordinates: 51.631, 67.426
+
+
+### Zharkainskiy
+
+Code: KZ06D09, Coordinates: 51.083, 66.557
+
+

@@ -1,0 +1,64 @@
+# Zhambyl — Kazakhstan Administrative Divisions
+
+> 11 districts
+> Code: KZ14
+> Coordinates: 44.377, 72.211
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Bayzakskiy
+
+Code: KZ14D06, Coordinates: 43.184, 71.575
+
+
+### Kordayskiy
+
+Code: KZ14D01, Coordinates: 43.326, 74.898
+
+
+### Lugovskoy
+
+Code: KZ14D07, Coordinates: 43.145, 72.505
+
+
+### Merkenskiy
+
+Code: KZ14D02, Coordinates: 42.828, 73.274
+
+
+### Moyynkumskiy
+
+Code: KZ14D05, Coordinates: 44.931, 72.754
+
+
+### Sarysuskiy
+
+Code: KZ14D08, Coordinates: 45.235, 70.302
+
+
+### Shuskiy
+
+Code: KZ14D10, Coordinates: 43.571, 73.88
+
+
+### Talasskiy
+
+Code: KZ14D09, Coordinates: 43.811, 70.92
+
+
+### Zhambyl
+
+Code: KZ14D03, Coordinates: 43.584, 71.697
+
+
+### Zhualy
+
+Code: KZ14D04, Coordinates: 43.886, 71.728
+
+
+### Zhualynskiy
+
+Code: KZ14D11, Coordinates: 42.771, 70.617
+
+

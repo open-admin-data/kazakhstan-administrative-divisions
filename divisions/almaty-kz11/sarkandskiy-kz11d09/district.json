@@ -1,0 +1,45 @@
+{
+  "id": "KZ11D09",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sarkandskiy",
+    "en": "Sarkandskiy",
+    "slug": "sarkandskiy-kz11d09"
+  },
+  "code": {
+    "id": "KZ11D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ11",
+    "level": 1,
+    "name": {
+      "local": "Алматы облысы",
+      "en": "Almaty",
+      "slug": "almaty-kz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "46.472",
+    "lon": "79.103"
+  },
+  "metadata": {},
+  "source": {}
+}

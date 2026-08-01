@@ -1,0 +1,45 @@
+{
+  "id": "KZ10D12",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Shemonaikhinskiy",
+    "en": "Shemonaikhinskiy",
+    "slug": "shemonaikhinskiy-kz10d12"
+  },
+  "code": {
+    "id": "KZ10D12",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ10",
+    "level": 1,
+    "name": {
+      "local": "Шығыс Қазақстан",
+      "en": "East Kazakhstan",
+      "slug": "east-kazakhstan-kz10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.565",
+    "lon": "82.293"
+  },
+  "metadata": {},
+  "source": {}
+}

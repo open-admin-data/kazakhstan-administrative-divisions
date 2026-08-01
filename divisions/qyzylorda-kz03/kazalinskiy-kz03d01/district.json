@@ -1,0 +1,45 @@
+{
+  "id": "KZ03D01",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kazalinskiy",
+    "en": "Kazalinskiy",
+    "slug": "kazalinskiy-kz03d01"
+  },
+  "code": {
+    "id": "KZ03D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ03",
+    "level": 1,
+    "name": {
+      "local": "Қызылорда",
+      "en": "Qyzylorda",
+      "slug": "qyzylorda-kz03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ03",
+      "level": 1,
+      "name": {
+        "local": "Қызылорда",
+        "en": "Qyzylorda",
+        "slug": "qyzylorda-kz03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "45.204",
+    "lon": "62.165"
+  },
+  "metadata": {},
+  "source": {}
+}

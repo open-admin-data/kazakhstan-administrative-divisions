@@ -1,0 +1,45 @@
+{
+  "id": "KZ04D05",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kzylkoginskiy",
+    "en": "Kzylkoginskiy",
+    "slug": "kzylkoginskiy-kz04d05"
+  },
+  "code": {
+    "id": "KZ04D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ04",
+    "level": 1,
+    "name": {
+      "local": "Атырау",
+      "en": "Atyrau",
+      "slug": "atyrau-kz04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ04",
+      "level": 1,
+      "name": {
+        "local": "Атырау",
+        "en": "Atyrau",
+        "slug": "atyrau-kz04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "48.368",
+    "lon": "53.545"
+  },
+  "metadata": {},
+  "source": {}
+}

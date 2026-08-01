@@ -1,0 +1,45 @@
+{
+  "id": "KZ01D10",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Temirskiy",
+    "en": "Temirskiy",
+    "slug": "temirskiy-kz01d10"
+  },
+  "code": {
+    "id": "KZ01D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ01",
+    "level": 1,
+    "name": {
+      "local": "Ақтөбе",
+      "en": "Aqtöbe",
+      "slug": "aqtobe-kz01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ01",
+      "level": 1,
+      "name": {
+        "local": "Ақтөбе",
+        "en": "Aqtöbe",
+        "slug": "aqtobe-kz01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.322",
+    "lon": "56.258"
+  },
+  "metadata": {},
+  "source": {}
+}

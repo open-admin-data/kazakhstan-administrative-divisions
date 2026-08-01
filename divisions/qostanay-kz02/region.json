@@ -1,0 +1,33 @@
+{
+  "id": "KZ02",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Қостанай",
+    "en": "Qostanay",
+    "slug": "qostanay-kz02"
+  },
+  "code": {
+    "id": "KZ02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.108",
+    "lon": "63.68"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/qostanay-kz02/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

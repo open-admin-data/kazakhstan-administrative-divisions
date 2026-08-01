@@ -1,0 +1,452 @@
+[
+  {
+    "id": "KZ09D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bayanaul`skiy",
+      "en": "Bayanaul`skiy",
+      "slug": "bayanaul-skiy-kz09d07"
+    },
+    "code": {
+      "id": "KZ09D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.765",
+      "lon": "75.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ekibastuz",
+      "en": "Ekibastuz",
+      "slug": "ekibastuz-kz09d10"
+    },
+    "code": {
+      "id": "KZ09D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.844",
+      "lon": "74.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Irtyshskiy",
+      "en": "Irtyshskiy",
+      "slug": "irtyshskiy-kz09d08"
+    },
+    "code": {
+      "id": "KZ09D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.311",
+      "lon": "74.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kachirskiy",
+      "en": "Kachirskiy",
+      "slug": "kachirskiy-kz09d03"
+    },
+    "code": {
+      "id": "KZ09D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.211",
+      "lon": "76.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lebyazhinskiy",
+      "en": "Lebyazhinskiy",
+      "slug": "lebyazhinskiy-kz09d04"
+    },
+    "code": {
+      "id": "KZ09D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.52",
+      "lon": "78.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mayskiy",
+      "en": "Mayskiy",
+      "slug": "mayskiy-kz09d09"
+    },
+    "code": {
+      "id": "KZ09D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.02",
+      "lon": "77.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pavlodarskiy",
+      "en": "Pavlodarskiy",
+      "slug": "pavlodarskiy-kz09d05"
+    },
+    "code": {
+      "id": "KZ09D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.328",
+      "lon": "77.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sherbaktinskiy",
+      "en": "Sherbaktinskiy",
+      "slug": "sherbaktinskiy-kz09d06"
+    },
+    "code": {
+      "id": "KZ09D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.468",
+      "lon": "78.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uspenskiy",
+      "en": "Uspenskiy",
+      "slug": "uspenskiy-kz09d02"
+    },
+    "code": {
+      "id": "KZ09D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.056",
+      "lon": "77.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ09D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zhelezinskiy",
+      "en": "Zhelezinskiy",
+      "slug": "zhelezinskiy-kz09d01"
+    },
+    "code": {
+      "id": "KZ09D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ09",
+        "level": 1,
+        "name": {
+          "local": "Павлодар",
+          "en": "Pavlodar",
+          "slug": "pavlodar-kz09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.809",
+      "lon": "75.746"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

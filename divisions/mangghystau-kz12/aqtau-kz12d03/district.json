@@ -1,0 +1,45 @@
+{
+  "id": "KZ12D03",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aqtau",
+    "en": "Aqtau",
+    "slug": "aqtau-kz12d03"
+  },
+  "code": {
+    "id": "KZ12D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ12",
+    "level": 1,
+    "name": {
+      "local": "Маңғыстау",
+      "en": "Mangghystau",
+      "slug": "mangghystau-kz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.658",
+    "lon": "51.306"
+  },
+  "metadata": {},
+  "source": {}
+}

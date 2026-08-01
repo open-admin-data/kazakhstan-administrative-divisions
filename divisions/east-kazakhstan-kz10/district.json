@@ -1,0 +1,722 @@
+[
+  {
+    "id": "KZ10D06",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayagozskiy",
+      "en": "Ayagozskiy",
+      "slug": "ayagozskiy-kz10d06"
+    },
+    "code": {
+      "id": "KZ10D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.75",
+      "lon": "78.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D13",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beskaragayskiy",
+      "en": "Beskaragayskiy",
+      "slug": "beskaragayskiy-kz10d13"
+    },
+    "code": {
+      "id": "KZ10D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.99",
+      "lon": "79.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D01",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Borodulikhinskiy",
+      "en": "Borodulikhinskiy",
+      "slug": "borodulikhinskiy-kz10d01"
+    },
+    "code": {
+      "id": "KZ10D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.649",
+      "lon": "81.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D02",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Glubokovskiy",
+      "en": "Glubokovskiy",
+      "slug": "glubokovskiy-kz10d02"
+    },
+    "code": {
+      "id": "KZ10D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.339",
+      "lon": "82.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D04",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Katon-Karagayskiy",
+      "en": "Katon-Karagayskiy",
+      "slug": "katon-karagayskiy-kz10d04"
+    },
+    "code": {
+      "id": "KZ10D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.297",
+      "lon": "85.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D07",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kokpektinskiy",
+      "en": "Kokpektinskiy",
+      "slug": "kokpektinskiy-kz10d07"
+    },
+    "code": {
+      "id": "KZ10D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.654",
+      "lon": "82.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D10",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kurchumskiy",
+      "en": "Kurchumskiy",
+      "slug": "kurchumskiy-kz10d10"
+    },
+    "code": {
+      "id": "KZ10D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "48.396",
+      "lon": "84.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D15",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leninogorsk",
+      "en": "Leninogorsk",
+      "slug": "leninogorsk-kz10d15"
+    },
+    "code": {
+      "id": "KZ10D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.391",
+      "lon": "83.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D14",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semey",
+      "en": "Semey",
+      "slug": "semey-kz10d14"
+    },
+    "code": {
+      "id": "KZ10D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.678",
+      "lon": "77.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D12",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shemonaikhinskiy",
+      "en": "Shemonaikhinskiy",
+      "slug": "shemonaikhinskiy-kz10d12"
+    },
+    "code": {
+      "id": "KZ10D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.565",
+      "lon": "82.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D09",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tarbagatayskiy",
+      "en": "Tarbagatayskiy",
+      "slug": "tarbagatayskiy-kz10d09"
+    },
+    "code": {
+      "id": "KZ10D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.682",
+      "lon": "82.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D11",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulanskiy",
+      "en": "Ulanskiy",
+      "slug": "ulanskiy-kz10d11"
+    },
+    "code": {
+      "id": "KZ10D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.773",
+      "lon": "82.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D16",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Urdzharskiy",
+      "en": "Urdzharskiy",
+      "slug": "urdzharskiy-kz10d16"
+    },
+    "code": {
+      "id": "KZ10D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "46.939",
+      "lon": "81.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D03",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zaysanskiy",
+      "en": "Zaysanskiy",
+      "slug": "zaysanskiy-kz10d03"
+    },
+    "code": {
+      "id": "KZ10D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "47.435",
+      "lon": "84.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D08",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zharminskiy",
+      "en": "Zharminskiy",
+      "slug": "zharminskiy-kz10d08"
+    },
+    "code": {
+      "id": "KZ10D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.187",
+      "lon": "81.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KZ10D05",
+    "level": 2,
+    "level_name": {
+      "local": "Аудан",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zyryanovsk",
+      "en": "Zyryanovsk",
+      "slug": "zyryanovsk-kz10d05"
+    },
+    "code": {
+      "id": "KZ10D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KZ10",
+      "level": 1,
+      "name": {
+        "local": "Шығыс Қазақстан",
+        "en": "East Kazakhstan",
+        "slug": "east-kazakhstan-kz10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KZ10",
+        "level": 1,
+        "name": {
+          "local": "Шығыс Қазақстан",
+          "en": "East Kazakhstan",
+          "slug": "east-kazakhstan-kz10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.589",
+      "lon": "85.258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

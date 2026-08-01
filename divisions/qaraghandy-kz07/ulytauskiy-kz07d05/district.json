@@ -1,0 +1,45 @@
+{
+  "id": "KZ07D05",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ulytauskiy",
+    "en": "Ulytauskiy",
+    "slug": "ulytauskiy-kz07d05"
+  },
+  "code": {
+    "id": "KZ07D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ07",
+    "level": 1,
+    "name": {
+      "local": "Қарағанды",
+      "en": "Qaraghandy",
+      "slug": "qaraghandy-kz07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ07",
+      "level": 1,
+      "name": {
+        "local": "Қарағанды",
+        "en": "Qaraghandy",
+        "slug": "qaraghandy-kz07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "47.741",
+    "lon": "67.016"
+  },
+  "metadata": {},
+  "source": {}
+}

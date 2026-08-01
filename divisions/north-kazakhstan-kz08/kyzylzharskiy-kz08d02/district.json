@@ -1,0 +1,45 @@
+{
+  "id": "KZ08D02",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kyzylzharskiy",
+    "en": "Kyzylzharskiy",
+    "slug": "kyzylzharskiy-kz08d02"
+  },
+  "code": {
+    "id": "KZ08D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ08",
+    "level": 1,
+    "name": {
+      "local": "Солтүстік Қазақстан",
+      "en": "North Kazakhstan",
+      "slug": "north-kazakhstan-kz08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ08",
+      "level": 1,
+      "name": {
+        "local": "Солтүстік Қазақстан",
+        "en": "North Kazakhstan",
+        "slug": "north-kazakhstan-kz08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.999",
+    "lon": "69.262"
+  },
+  "metadata": {},
+  "source": {}
+}

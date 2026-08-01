@@ -1,0 +1,33 @@
+{
+  "id": "KZ09",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Павлодар",
+    "en": "Pavlodar",
+    "slug": "pavlodar-kz09"
+  },
+  "code": {
+    "id": "KZ09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.224",
+    "lon": "76.005"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/pavlodar-kz09/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

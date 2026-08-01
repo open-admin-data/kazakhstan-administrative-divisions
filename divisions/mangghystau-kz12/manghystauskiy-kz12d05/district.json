@@ -1,0 +1,45 @@
+{
+  "id": "KZ12D05",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manghystauskiy",
+    "en": "Manghystauskiy",
+    "slug": "manghystauskiy-kz12d05"
+  },
+  "code": {
+    "id": "KZ12D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ12",
+    "level": 1,
+    "name": {
+      "local": "Маңғыстау",
+      "en": "Mangghystau",
+      "slug": "mangghystau-kz12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ12",
+      "level": 1,
+      "name": {
+        "local": "Маңғыстау",
+        "en": "Mangghystau",
+        "slug": "mangghystau-kz12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "44.548",
+    "lon": "53.191"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "KZ13",
+  "level": 1,
+  "level_name": {
+    "local": "Облыс",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Оңтүстік Қазақстан",
+    "en": "South Kazakhstan",
+    "slug": "south-kazakhstan-kz13"
+  },
+  "code": {
+    "id": "KZ13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.47",
+    "lon": "68.697"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kz/regions/south-kazakhstan-kz13/",
+    "api": "https://openadmindata.org/api/kz/"
+  }
+}

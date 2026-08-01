@@ -1,0 +1,74 @@
+# Aqtöbe — Kazakhstan Administrative Divisions
+
+> 13 districts
+> Code: KZ01
+> Coordinates: 48.299, 58.073
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Alginskiy
+
+Code: KZ01D05, Coordinates: 49.981, 56.703
+
+
+### Aqtobe
+
+Code: KZ01D08, Coordinates: 50.336, 57.329
+
+
+### Aytekebiyskiy
+
+Code: KZ01D12, Coordinates: 50.207, 61.182
+
+
+### Bayganinskiy
+
+Code: KZ01D02, Coordinates: 47.431, 56.532
+
+
+### Irgizskiy
+
+Code: KZ01D11, Coordinates: 48.717, 62.003
+
+
+### Kargalinskiy
+
+Code: KZ01D09, Coordinates: 50.813, 58.024
+
+
+### Khobdinskiy
+
+Code: KZ01D04, Coordinates: 50.176, 55.334
+
+
+### Khromtauskiy
+
+Code: KZ01D06, Coordinates: 50.176, 58.851
+
+
+### Martukskiy
+
+Code: KZ01D01, Coordinates: 50.679, 56.577
+
+
+### Mugalzharskiy
+
+Code: KZ01D13, Coordinates: 49.028, 58.077
+
+
+### Shalkarskiy
+
+Code: KZ01D07, Coordinates: 47.406, 59.156
+
+
+### Temirskiy
+
+Code: KZ01D10, Coordinates: 49.322, 56.258
+
+
+### Uilskiy
+
+Code: KZ01D03, Coordinates: 49.271, 54.663
+
+

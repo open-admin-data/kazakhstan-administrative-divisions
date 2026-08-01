@@ -1,0 +1,79 @@
+# South Kazakhstan — Kazakhstan Administrative Divisions
+
+> 14 districts
+> Code: KZ13
+> Coordinates: 42.47, 68.697
+> Last updated: 2026-08-01. License: CC-BY-4.0.
+
+## Districts
+
+### Arysskiy
+
+Code: KZ13D04, Coordinates: 42.258, 68.483
+
+
+### Baydibekskiy
+
+Code: KZ13D05, Coordinates: 43.049, 69.373
+
+
+### Chardarinskiy
+
+Code: KZ13D02, Coordinates: 41.588, 67.423
+
+
+### Kazygurtskiy
+
+Code: KZ13D06, Coordinates: 41.859, 69.661
+
+
+### Maktaaral`skiy
+
+Code: KZ13D01, Coordinates: 40.812, 68.339
+
+
+### Ordabasynskiy
+
+Code: KZ13D07, Coordinates: 42.86, 68.918
+
+
+### Otrarskiy
+
+Code: KZ13D08, Coordinates: 42.639, 67.411
+
+
+### Saryagashskiy
+
+Code: KZ13D14, Coordinates: 41.469, 68.711
+
+
+### Sayramskiy
+
+Code: KZ13D09, Coordinates: 42.402, 69.81
+
+
+### Shymkent
+
+Code: KZ13D12, Coordinates: 42.339, 69.575
+
+
+### Suzakskiy
+
+Code: KZ13D10, Coordinates: 44.905, 68.544
+
+
+### Tolebiyskiy
+
+Code: KZ13D03, Coordinates: 42.213, 70.373
+
+
+### Turkestan
+
+Code: KZ13D13, Coordinates: 43.466, 68.361
+
+
+### Tyul`kubaskiy
+
+Code: KZ13D11, Coordinates: 42.546, 70.239
+
+

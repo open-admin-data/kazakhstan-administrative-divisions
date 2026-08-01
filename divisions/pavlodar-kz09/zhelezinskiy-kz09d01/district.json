@@ -1,0 +1,45 @@
+{
+  "id": "KZ09D01",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zhelezinskiy",
+    "en": "Zhelezinskiy",
+    "slug": "zhelezinskiy-kz09d01"
+  },
+  "code": {
+    "id": "KZ09D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ09",
+    "level": 1,
+    "name": {
+      "local": "Павлодар",
+      "en": "Pavlodar",
+      "slug": "pavlodar-kz09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ09",
+      "level": 1,
+      "name": {
+        "local": "Павлодар",
+        "en": "Pavlodar",
+        "slug": "pavlodar-kz09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.809",
+    "lon": "75.746"
+  },
+  "metadata": {},
+  "source": {}
+}

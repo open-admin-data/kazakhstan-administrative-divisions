@@ -1,0 +1,45 @@
+{
+  "id": "KZ11D16",
+  "level": 2,
+  "level_name": {
+    "local": "Аудан",
+    "en": "District"
+  },
+  "name": {
+    "local": "Taldyqorghan",
+    "en": "Taldyqorghan",
+    "slug": "taldyqorghan-kz11d16"
+  },
+  "code": {
+    "id": "KZ11D16",
+    "iso": null
+  },
+  "parent": {
+    "id": "KZ11",
+    "level": 1,
+    "name": {
+      "local": "Алматы облысы",
+      "en": "Almaty",
+      "slug": "almaty-kz11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KZ11",
+      "level": 1,
+      "name": {
+        "local": "Алматы облысы",
+        "en": "Almaty",
+        "slug": "almaty-kz11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "44.958",
+    "lon": "78.645"
+  },
+  "metadata": {},
+  "source": {}
+}

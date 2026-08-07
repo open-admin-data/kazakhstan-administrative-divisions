@@ -11,7 +11,7 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-01 |
+| Last Updated | 2026-08-07 |
 | Website | [openadmindata.org/kz](https://openadmindata.org/kz/) |
 | API | [openadmindata.org/api/kz](https://openadmindata.org/api/kz/) |
 

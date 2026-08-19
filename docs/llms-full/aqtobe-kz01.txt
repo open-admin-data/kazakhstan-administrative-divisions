@@ -3,7 +3,7 @@
 > 13 districts
 > Code: KZ01
 > Coordinates: 48.299, 58.073
-> Last updated: 2026-08-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

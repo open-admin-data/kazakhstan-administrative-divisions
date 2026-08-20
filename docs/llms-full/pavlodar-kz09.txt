@@ -3,7 +3,7 @@
 > 10 districts
 > Code: KZ09
 > Coordinates: 52.224, 76.005
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

@@ -11,11 +11,12 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/kz](https://openadmindata.org/kz/) |
 | API | [openadmindata.org/api/kz](https://openadmindata.org/api/kz/) |
 | Flag | [PNG](https://onlygames.me/flags-png/kz/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Kazakhstan National Anthem MP3](https://onlygames.me/national-anthems/kz/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/kaz) · [Population](https://nationdata.org/population/country/kaz) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Region
 
